@@ -1,0 +1,18528 @@
+[
+{
+"word": "a",
+"star": 1,
+"alt": [],
+"derived": [
+"an"
+]
+},
+{
+"word": "abandon",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "able",
+"star": 2,
+"alt": [],
+"derived": [
+"disabled"
+]
+},
+{
+"word": "aboard",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "abort",
+"star": 0,
+"alt": [],
+"derived": [
+"abortion"
+]
+},
+{
+"word": "abound",
+"star": 0,
+"alt": [],
+"derived": [
+"abundant"
+]
+},
+{
+"word": "about",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "above",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "abroad",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ache",
+"star": 0,
+"alt": [],
+"derived": [
+"headache"
+]
+},
+{
+"word": "afford",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "achieve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "afraid",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "acid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "after",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "acknowledge",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "afternoon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "acquire",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "again",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "acquisition",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "against",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "across",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "age",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "act",
+"star": 1,
+"alt": [],
+"derived": [
+"actual",
+"interact"
+]
+},
+{
+"word": "agency",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "adapt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "agenda",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "add",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "agent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "addict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aggress",
+"star": 0,
+"alt": [],
+"derived": [
+"aggressive"
+]
+},
+{
+"word": "address",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ago",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "absent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "adequate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "agree",
+"star": 1,
+"alt": [],
+"derived": [
+"disagree"
+]
+},
+{
+"word": "absolute",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "adjust",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "agriculture",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "absorb",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "administer",
+"star": 0,
+"alt": [],
+"derived": [
+"administration"
+]
+},
+{
+"word": "ahead",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "abstract",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aid",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "absurd",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "admire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "aim",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "abuse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "admit",
+"star": 2,
+"alt": [],
+"derived": [
+"admission"
+]
+},
+{
+"word": "air",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "academy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "adolescent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "airline",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "accelerate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "adopt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "airplane",
+"star": 1,
+"alt": [
+"aeroplane"
+],
+"derived": []
+},
+{
+"word": "accent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "adult",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "airport",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "accept",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "advance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "alarm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "access",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "advantage",
+"star": 2,
+"alt": [],
+"derived": [
+"disadvantage"
+]
+},
+{
+"word": "album",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "accident",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "adventure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "alcohol",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "accommodate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "adverse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "alert",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "accompany",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "advertize",
+"star": 2,
+"alt": [
+"advertise"
+],
+"derived": []
+},
+{
+"word": "alien",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "accomplish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "advice",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "alike",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "accord",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "advise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "alive",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "account",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "advocate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "all",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "accumulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aesthetic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "allocate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "accurate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "affair",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "allow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "accuse",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "affect",
+"star": 2,
+"alt": [],
+"derived": [
+"affection"
+]
+},
+{
+"word": "ally",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "almost",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ask",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "alone",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "anticipate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "asleep",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "along",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "anxiety",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aspect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "alongside",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "anxious",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "aspire",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aloud",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "any",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "assault",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "already",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "apart",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "assemble",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "alright",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "apartment",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "assert",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "also",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "apology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "assess",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "alter",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "apparent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "asset",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "alternate",
+"star": 0,
+"alt": [],
+"derived": [
+"alternative"
+]
+},
+{
+"word": "appeal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "assign",
+"star": 2,
+"alt": [],
+"derived": [
+"assignment"
+]
+},
+{
+"word": "although",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "appear",
+"star": 2,
+"alt": [],
+"derived": [
+"disappear"
+]
+},
+{
+"word": "assist",
+"star": 2,
+"alt": [],
+"derived": [
+"assistant"
+]
+},
+{
+"word": "altogether",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "apple",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "associate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "always",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "apply",
+"star": 2,
+"alt": [],
+"derived": [
+"applicant"
+]
+},
+{
+"word": "assume",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "amaze",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "appoint",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "assure",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ambassador",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "appreciate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "astonish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ambition",
+"star": 0,
+"alt": [],
+"derived": [
+"ambitious"
+]
+},
+{
+"word": "approach",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "at",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ambulance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "appropriate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "athlete",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "among",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "approve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "atmosphere",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "amount",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "approximate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "atom",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "amuse",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "architect",
+"star": 0,
+"alt": [],
+"derived": [
+"architecture"
+]
+},
+{
+"word": "attach",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "analysis",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "area",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "attack",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "analyze",
+"star": 0,
+"alt": [
+"analyse"
+],
+"derived": []
+},
+{
+"word": "argue",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "attempt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "anchor",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "arise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "attend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ancient",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "arm",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "attention",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "and",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "army",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "attitude",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "angel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "around",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "attract",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "anger",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "arrange",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "attribute",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "angle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "arrest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "auction",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "animal",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "arrive",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "audience",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "anniversary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "arrow",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "aunt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "announce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "art",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "authentic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "annoy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "article",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "author",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "annual",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "artifice",
+"star": 0,
+"alt": [],
+"derived": [
+"artificial"
+]
+},
+{
+"word": "automatic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "another",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "as",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "autumn",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "answer",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "aside",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "avail",
+"star": 0,
+"alt": [],
+"derived": [
+"available"
+]
+},
+{
+"word": "average",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "base",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "belong",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "avoid",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "baseball",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "below",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "await",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "basis",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "belt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "awake",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "basket",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bench",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "award",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "basketball",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "aware",
+"star": 2,
+"alt": [],
+"derived": [
+"unaware"
+]
+},
+{
+"word": "bat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beneath",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "away",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bath",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "benefit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "awe",
+"star": 0,
+"alt": [],
+"derived": [
+"awful"
+]
+},
+{
+"word": "battery",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "beside",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "awkward",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "battle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bay",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "betray",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "be",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "between",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beach",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beyond",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "beam",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bias",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bean",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "big",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bear",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bike",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beard",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bill",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "billion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "beat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "beauty",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bind",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "because",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "biography",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "become",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "biology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bed",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bird",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bee",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "birth",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beef",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "biscuit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "beer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "before",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "beg",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bitter",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "begin",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "black",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "behalf",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "blame",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "behave",
+"star": 0,
+"alt": [],
+"derived": [
+"behavior / behaviour"
+]
+},
+{
+"word": "blank",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "blanket",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "behind",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "blast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "belief",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "blend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "believe",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bless",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bell",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "blind",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "baby",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "back",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "background",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bacon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bad",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "badminton",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bag",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bake",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "balance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ball",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "balloon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ban",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "banana",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "band",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bang",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bank",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bankrupt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bar",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bargain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bark",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "barrier",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "blink",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "brake",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "burn",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "block",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "branch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "burst",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "blonde",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "brand",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bury",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "blood",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "brave",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bus",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bloom",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bread",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bush",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "blossom",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "break",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "business",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "blow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "breakfast",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "busy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "blue",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "breast",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "but",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "board",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "breath",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "butcher",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "boat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "breathe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "butter",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "body",
+"star": 1,
+"alt": [],
+"derived": [
+"embody"
+]
+},
+{
+"word": "breed",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "button",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "boil",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "breeze",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "buy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bold",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "brick",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "buzz",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bomb",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bridge",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "by",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bond",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "brief",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bone",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bright",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "book",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "brilliant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "boom",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bring",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "boost",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "broad",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cable",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "boot",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "broadcast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "border",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "brother",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cake",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bore",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "brown",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "calculate",
+"star": 2,
+"alt": [],
+"derived": [
+"calculator"
+]
+},
+{
+"word": "borrow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "brush",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "calendar",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "boss",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "brute",
+"star": 0,
+"alt": [],
+"derived": [
+"brutal"
+]
+},
+{
+"word": "call",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "both",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bubble",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "calm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bother",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "budget",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "camera",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bottle",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bug",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "camp",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bottom",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "build",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "campaign",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bounce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bulk",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "can",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "boundary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bull",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cancel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bully",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cancer",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "bowl",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "bump",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "candidate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "box",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bunch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "candy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "boy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "bundle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "canvas",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "brain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "burden",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cap",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "capable",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "certain",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "chocolate",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cape",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "certificate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "choice",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "capital",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "choir",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "captain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chair",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "choose",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "capture",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chairman",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chop",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "car",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "challenge",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chorus",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "card",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "chamber",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chronic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "care",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "champion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "church",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "career",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chance",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cigarette",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "carpet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "change",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cinema",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "carrot",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "channel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "circle",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "carry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "chaos",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "circulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cart",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "character",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "circumstance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "carve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "characteristic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cite",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "case",
+"star": 1,
+"alt": [],
+"derived": [
+"casual"
+]
+},
+{
+"word": "charge",
+"star": 2,
+"alt": [],
+"derived": [
+"discharge"
+]
+},
+{
+"word": "citizen",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cash",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "charity",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "city",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cast",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "charm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "civil",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "castle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chart",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "claim",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "chase",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "catalogue",
+"star": 2,
+"alt": [
+"catalog"
+],
+"derived": []
+},
+{
+"word": "chat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clash",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "catch",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cheap",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "class",
+"star": 1,
+"alt": [],
+"derived": [
+"classic",
+"classify"
+]
+},
+{
+"word": "category",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "check",
+"star": 1,
+"alt": [
+"cheque"
+],
+"derived": []
+},
+{
+"word": "clause",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cater",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cheek",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clay",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cattle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cheer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clean",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cause",
+"star": 2,
+"alt": [],
+"derived": [
+"causal"
+]
+},
+{
+"word": "cheese",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "clear",
+"star": 1,
+"alt": [],
+"derived": [
+"clarify"
+]
+},
+{
+"word": "caution",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chef",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "clerk",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cave",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chemical",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "clever",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cease",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "click",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ceiling",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chew",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "client",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "celebrate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chicken",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cliff",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "celebrity",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chief",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "climate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cell",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "child",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "climb",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "censor",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "chill",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cling",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "center",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "chin",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "clinic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "century",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "chip",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clip",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "clock",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "committee",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "concrete",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "close",
+"star": 1,
+"alt": [],
+"derived": [
+"disclose",
+"enclose"
+]
+},
+{
+"word": "commodity",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "condemn",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "clothes",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "common",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "condition",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cloud",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "communicate",
+"star": 2,
+"alt": [],
+"derived": [
+"communication"
+]
+},
+{
+"word": "conduct",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "club",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "confer",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "clue",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "communist",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "confess",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cluster",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "community",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "confide",
+"star": 0,
+"alt": [],
+"derived": [
+"confident"
+]
+},
+{
+"word": "coach",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "companion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "confine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "coal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "company",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "confirm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "coast",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "compare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "conflict",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "coat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "compatible",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "conform",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "code",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "compel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "confront",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "coffee",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "compensate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "confuse",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "coin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "compete",
+"star": 0,
+"alt": [],
+"derived": [
+"competent"
+]
+},
+{
+"word": "congratulate",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "coincide",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "compile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "congress",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cold",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "complain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "connect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "collaborate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "complement",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "conscience",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "collapse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "complete",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "conscious",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "collar",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "complex",
+"star": 2,
+"alt": [],
+"derived": [
+"complexity"
+]
+},
+{
+"word": "consent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "colleague",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "complicate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "conserve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "collect",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "component",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "consider",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "college",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "compose",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "consist",
+"star": 0,
+"alt": [],
+"derived": [
+"consistent"
+]
+},
+{
+"word": "colony",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "compound",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "constant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "color",
+"star": 1,
+"alt": [
+"colour"
+],
+"derived": []
+},
+{
+"word": "comprehend",
+"star": 0,
+"alt": [],
+"derived": [
+"comprehensive"
+]
+},
+{
+"word": "constitute",
+"star": 0,
+"alt": [],
+"derived": [
+"constitution"
+]
+},
+{
+"word": "column",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "constrain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "combat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "comprise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "construct",
+"star": 0,
+"alt": [],
+"derived": [
+"construction"
+]
+},
+{
+"word": "combine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "compromise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "consult",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "come",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "compute",
+"star": 1,
+"alt": [],
+"derived": [
+"computer"
+]
+},
+{
+"word": "consume",
+"star": 2,
+"alt": [],
+"derived": [
+"consumer",
+"consumption"
+]
+},
+{
+"word": "comedy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "conceal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "comfort",
+"star": 2,
+"alt": [],
+"derived": [
+"comfortable"
+]
+},
+{
+"word": "conceive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "contact",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "comic",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "concentrate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "contain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "command",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "concept",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "contemporary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "comment",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "concern",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "contend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "commerce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "concert",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "content",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "commit",
+"star": 0,
+"alt": [],
+"derived": [
+"commission"
+]
+},
+{
+"word": "conclude",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "contest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "context",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cost",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "crime",
+"star": 2,
+"alt": [],
+"derived": [
+"criminal"
+]
+},
+{
+"word": "continent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "costume",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crisis",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "continue",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cottage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "crisp",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "contract",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cotton",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "criterion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "contradict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cough",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "critic",
+"star": 0,
+"alt": [],
+"derived": [
+"criticize / criticise",
+"criticism"
+]
+},
+{
+"word": "contrary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "could",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "contrast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "council",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "crop",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "contribute",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "counsel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cross",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "control",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "count",
+"star": 2,
+"alt": [],
+"derived": [
+"discount",
+"counter"
+]
+},
+{
+"word": "crowd",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "controversy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crown",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "convene",
+"star": 0,
+"alt": [],
+"derived": [
+"convenient",
+"convention"
+]
+},
+{
+"word": "counterpart",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crucial",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "country",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cruel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "converse",
+"star": 2,
+"alt": [],
+"derived": [
+"conversation"
+]
+},
+{
+"word": "countryside",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cruise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "convert",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "county",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "crush",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "convey",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "couple",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "convict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "coupon",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crystal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "convince",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "courage",
+"star": 0,
+"alt": [],
+"derived": [
+"discourage",
+"encourage"
+]
+},
+{
+"word": "cultivate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cook",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "culture",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cookie",
+"star": 1,
+"alt": [
+"cooky"
+],
+"derived": []
+},
+{
+"word": "course",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cup",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cool",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "court",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cooperate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cousin",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "curious",
+"star": 2,
+"alt": [],
+"derived": [
+"curiosity"
+]
+},
+{
+"word": "coordinate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cover",
+"star": 1,
+"alt": [],
+"derived": [
+"discover"
+]
+},
+{
+"word": "curl",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cop",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "currency",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cope",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "crack",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "current",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "copy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "craft",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "curriculum",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "copyright",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crash",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "curry",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cord",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crawl",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "curse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "core",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crayon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "curtain",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "corn",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "craze",
+"star": 0,
+"alt": [],
+"derived": [
+"crazy"
+]
+},
+{
+"word": "curve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "corner",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "cream",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "custody",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "corporate",
+"star": 0,
+"alt": [],
+"derived": [
+"corporation"
+]
+},
+{
+"word": "create",
+"star": 2,
+"alt": [],
+"derived": [
+"creature"
+]
+},
+{
+"word": "custom",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "correct",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "credible",
+"star": 0,
+"alt": [],
+"derived": [
+"incredible"
+]
+},
+{
+"word": "customer",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "correspond",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "credit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "cut",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "corridor",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "creep",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cute",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "corrupt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "crew",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "cycle",
+"star": 2,
+"alt": [],
+"derived": [
+"recycle",
+"cyclist"
+]
+},
+{
+"word": "cynical",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "defeat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "desert",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "defend",
+"star": 0,
+"alt": [],
+"derived": [
+"defendant"
+]
+},
+{
+"word": "deserve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "defense",
+"star": 2,
+"alt": [
+"defence"
+],
+"derived": []
+},
+{
+"word": "design",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "deficiency",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "designate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "deficit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "desire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "define",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "desk",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "definite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "despair",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "degree",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "desperate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "delay",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "despite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dairy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "damage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "damp",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dance",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "danger",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "delegate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "destine",
+"star": 0,
+"alt": [],
+"derived": [
+"destination"
+]
+},
+{
+"word": "dark",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "delete",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "destiny",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "darling",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "deliberate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "destroy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dash",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "delicate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "destruct",
+"star": 0,
+"alt": [],
+"derived": [
+"destruction"
+]
+},
+{
+"word": "database",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "delicious",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "detach",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "date",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "delight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "detail",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "datum",
+"star": 0,
+"alt": [],
+"derived": [
+"data"
+]
+},
+{
+"word": "deliver",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "detect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "daughter",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "demand",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "determine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dawn",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "democracy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "develop",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "day",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "democrat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "device",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dead",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "demon",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "devil",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "deal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "demonstrate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "devise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "death",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dense",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "devote",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "debate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dentist",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "diabetes",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "debt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "deny",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dialogue",
+"star": 1,
+"alt": [
+"dialog"
+],
+"derived": []
+},
+{
+"word": "decade",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "depart",
+"star": 0,
+"alt": [],
+"derived": [
+"department",
+"departure"
+]
+},
+{
+"word": "diary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "decay",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dictate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "decent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "depend",
+"star": 2,
+"alt": [],
+"derived": [
+"dependence",
+"independent"
+]
+},
+{
+"word": "dictionary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "decide",
+"star": 1,
+"alt": [],
+"derived": [
+"decision"
+]
+},
+{
+"word": "die",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "deck",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "depict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "diet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "declare",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "deposit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "differ",
+"star": 0,
+"alt": [],
+"derived": [
+"different"
+]
+},
+{
+"word": "decline",
+"star": 0,
+"alt": [],
+"derived": [
+"declension"
+]
+},
+{
+"word": "depress",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "difficult",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "decorate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "deprive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dig",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "decrease",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "derive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dignity",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dedicate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "descend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dimension",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "deep",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "describe",
+"star": 2,
+"alt": [],
+"derived": [
+"description"
+]
+},
+{
+"word": "diminish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dog",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dump",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dinner",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "doll",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "during",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dolphin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dust",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "diplomat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "domain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "duty",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "direct",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "domestic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dwell",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dirt",
+"star": 2,
+"alt": [],
+"derived": [
+"dirty"
+]
+},
+{
+"word": "dominate",
+"star": 0,
+"alt": [],
+"derived": [
+"dominant"
+]
+},
+{
+"word": "dynamic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "disappoint",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "donate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "disaster",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "door",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "disc",
+"star": 2,
+"alt": [],
+"derived": [
+"disk"
+]
+},
+{
+"word": "dose",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "discipline",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dot",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "discourse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "double",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "each",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "discriminate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "doubt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "eager",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "discuss",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "doughnut",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ear",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "disgust",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "down",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "early",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dish",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dozen",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "earn",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dismiss",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "draft",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "earth",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "display",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "drag",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ease",
+"star": 2,
+"alt": [],
+"derived": [
+"disease",
+"easy"
+]
+},
+{
+"word": "dispute",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "drain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "east",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "disrupt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "drama",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "eat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "distance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "draw",
+"star": 1,
+"alt": [],
+"derived": [
+"drawer"
+]
+},
+{
+"word": "economy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "distinct",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dread",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "edge",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "distinguish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dream",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "edit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "distort",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dress",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "educate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "distract",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "drill",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "effect",
+"star": 2,
+"alt": [],
+"derived": [
+"effective"
+]
+},
+{
+"word": "distribute",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "drink",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "efficient",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "district",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "drive",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "effort",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "disturb",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "drop",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "egg",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "dive",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "drown",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "eight",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "diverse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "drug",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "either",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "divide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "drum",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "elaborate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "divine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "dry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "divorce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dual",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "do",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "duck",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "doctor",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "due",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "document",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "dull",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "elect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "electric",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "electronic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "elegant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "element",
+"star": 2,
+"alt": [],
+"derived": [
+"elementary"
+]
+},
+{
+"word": "elephant",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "envelope",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "exceed",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "elevate",
+"star": 0,
+"alt": [],
+"derived": [
+"elevator"
+]
+},
+{
+"word": "environ",
+"star": 0,
+"alt": [],
+"derived": [
+"environment"
+]
+},
+{
+"word": "excel",
+"star": 0,
+"alt": [],
+"derived": [
+"excellent"
+]
+},
+{
+"word": "eleven",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "envy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "except",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "eliminate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "equal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "excess",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "elite",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "equip",
+"star": 0,
+"alt": [],
+"derived": [
+"equipment"
+]
+},
+{
+"word": "exchange",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "else",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "era",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "excite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "embarrass",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "erase",
+"star": 0,
+"alt": [],
+"derived": [
+"eraser"
+]
+},
+{
+"word": "exclude",
+"star": 0,
+"alt": [],
+"derived": [
+"exclusive"
+]
+},
+{
+"word": "embassy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "erect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "excuse",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "embrace",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "err",
+"star": 0,
+"alt": [],
+"derived": [
+"error"
+]
+},
+{
+"word": "executive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "emerge",
+"star": 0,
+"alt": [],
+"derived": [
+"emergence"
+]
+},
+{
+"word": "escape",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "exercise",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "emergency",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "especial",
+"star": 2,
+"alt": [],
+"derived": [
+"especially"
+]
+},
+{
+"word": "exhaust",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "emit",
+"star": 0,
+"alt": [],
+"derived": [
+"emission"
+]
+},
+{
+"word": "essay",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "exhibit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "emotion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "essence",
+"star": 0,
+"alt": [],
+"derived": [
+"essential"
+]
+},
+{
+"word": "exist",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "emphasis",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "establish",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "exit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "emphasize",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "estate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "exotic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "empire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "estimate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "expand",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "employ",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ethic",
+"star": 0,
+"alt": [],
+"derived": [
+"ethical"
+]
+},
+{
+"word": "expect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "empty",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ethnic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "expense",
+"star": 2,
+"alt": [],
+"derived": [
+"expensive"
+]
+},
+{
+"word": "encounter",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "evacuate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "experience",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "end",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "evaluate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "experiment",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "endure",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "even",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "expert",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "enemy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "evening",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "expertise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "energy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "event",
+"star": 2,
+"alt": [],
+"derived": [
+"eventually"
+]
+},
+{
+"word": "explain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "engage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ever",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "explicit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "engine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "every",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "explode",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "engineer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "evidence",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "explore",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "enhance",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "evil",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "export",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "enormous",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "evitable",
+"star": 0,
+"alt": [],
+"derived": [
+"inevitable"
+]
+},
+{
+"word": "expose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "enough",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "evolution",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "express",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "enter",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "evolve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "extend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "enterprise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "exact",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "extent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "entertain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "exaggerate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "external",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "enthusiastic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "examine",
+"star": 2,
+"alt": [],
+"derived": [
+"examination / exam"
+]
+},
+{
+"word": "extinct",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "entire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "extra",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "entry",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "example",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "extract",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "extraordinary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fasten",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "finger",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "extreme",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "finish",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "eye",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fate",
+"star": 0,
+"alt": [],
+"derived": [
+"fatal"
+]
+},
+{
+"word": "finite",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "eyebrow",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "father",
+"star": 1,
+"alt": [],
+"derived": [
+"dad",
+"daddy"
+]
+},
+{
+"word": "fire",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fault",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "firm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "favor",
+"star": 2,
+"alt": [
+"favour"
+],
+"derived": []
+},
+{
+"word": "first",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "favorite",
+"star": 1,
+"alt": [
+"favourite"
+],
+"derived": []
+},
+{
+"word": "fish",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fear",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "feature",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "five",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "federal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fix",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fee",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flag",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "feed",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flame",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "feel",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flash",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fellow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "female",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flavor",
+"star": 0,
+"alt": [
+"flavour"
+],
+"derived": []
+},
+{
+"word": "fence",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flaw",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ferry",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "flee",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fertile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "flesh",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "festival",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flexible",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fabric",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "face",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "facilitate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "facility",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fact",
+"star": 1,
+"alt": [],
+"derived": [
+"factual"
+]
+},
+{
+"word": "factor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "factory",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "faculty",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fade",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fail",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "faint",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fair",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fever",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "faith",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "few",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fall",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fiber",
+"star": 0,
+"alt": [
+"fibre"
+],
+"derived": []
+},
+{
+"word": "float",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "false",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fiction",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "flock",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fame",
+"star": 0,
+"alt": [],
+"derived": [
+"famous"
+]
+},
+{
+"word": "field",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flood",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "familiar",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fierce",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "floor",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "family",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fight",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flourish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fan",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "figure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "flow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fancy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "file",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flower",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fantastic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fill",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "flush",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "far",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "film",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fly",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fare",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "filter",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "focus",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "farm",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "final",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fog",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fascinate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "finance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fold",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fashion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "find",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "folk",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fast",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fine",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "follow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fond",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "freeze",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "game",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "food",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "frequent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gang",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fool",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fresh",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "foot",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "friend",
+"star": 1,
+"alt": [],
+"derived": [
+"friendship"
+]
+},
+{
+"word": "garage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "football",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fright",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "garden",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "for",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "frog",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gas",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "forbid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "from",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gasoline",
+"star": 0,
+"alt": [
+"petrol"
+],
+"derived": []
+},
+{
+"word": "force",
+"star": 2,
+"alt": [],
+"derived": [
+"enforce"
+]
+},
+{
+"word": "front",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "forecast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "frost",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gather",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "forehead",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "frown",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gaze",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "foreign",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fruit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gear",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "forest",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "frustrate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gender",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "forever",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fry",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gene",
+"star": 0,
+"alt": [],
+"derived": [
+"genetic"
+]
+},
+{
+"word": "forget",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fuel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "general",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "forgive",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fulfil",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "generate",
+"star": 0,
+"alt": [],
+"derived": [
+"generation"
+]
+},
+{
+"word": "fork",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "full",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "generous",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "form",
+"star": 1,
+"alt": [],
+"derived": [
+"formal",
+"formation",
+"informal"
+]
+},
+{
+"word": "fun",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "genius",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "function",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "format",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fund",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "former",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fundamental",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "formula",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "funeral",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "forth",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fur",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fortunate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "furnish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fortune",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "furniture",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "forward",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "furthermore",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "foster",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fury",
+"star": 0,
+"alt": [],
+"derived": [
+"furious"
+]
+},
+{
+"word": "found",
+"star": 2,
+"alt": [],
+"derived": [
+"foundation"
+]
+},
+{
+"word": "fuse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "fountain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "future",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gentleman",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "geology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gesture",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "free",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ghost",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "giant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "giraffe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "girl",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "give",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "glad",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "frame",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "frankly",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "get",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gift",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "fraction",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "framework",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "genuine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "geography",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "four",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "fox",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gentle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "glance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "glare",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gallery",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "glass",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "gamble",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "globe",
+"star": 0,
+"alt": [],
+"derived": [
+"global"
+]
+},
+{
+"word": "glory",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "grocery",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hang",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "glove",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gross",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "happen",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "glow",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ground",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "happy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "glue",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "group",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "harbor",
+"star": 0,
+"alt": [
+"harbour"
+],
+"derived": []
+},
+{
+"word": "go",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "grow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hard",
+"star": 1,
+"alt": [],
+"derived": [
+"hardly"
+]
+},
+{
+"word": "goal",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "guarantee",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "harm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "goat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "guard",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "harmony",
+"star": 0,
+"alt": [],
+"derived": [
+"harmonious"
+]
+},
+{
+"word": "god",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "guardian",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "harsh",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gold",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "guess",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "harvest",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "golf",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "guest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "good",
+"star": 1,
+"alt": [],
+"derived": [
+"goods"
+]
+},
+{
+"word": "guide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hate",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "goodbye",
+"star": 1,
+"alt": [],
+"derived": [
+"bye"
+]
+},
+{
+"word": "guideline",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "haunt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gorgeous",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "guilt",
+"star": 2,
+"alt": [],
+"derived": [
+"guilty"
+]
+},
+{
+"word": "have",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "govern",
+"star": 2,
+"alt": [],
+"derived": [
+"government"
+]
+},
+{
+"word": "guitar",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hazard",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "grab",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gulf",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "he",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "grace",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gum",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "head",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "grade",
+"star": 2,
+"alt": [],
+"derived": [
+"gradual"
+]
+},
+{
+"word": "gun",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "headquarters",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "graduate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "guy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "heal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "grain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "gymnasium",
+"star": 0,
+"alt": [
+"gym"
+],
+"derived": []
+},
+{
+"word": "health",
+"star": 2,
+"alt": [],
+"derived": [
+"healthy"
+]
+},
+{
+"word": "grand",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "grandfather",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hear",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "heart",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "grant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "heat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "grape",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "graph",
+"star": 2,
+"alt": [],
+"derived": [
+"graphic"
+]
+},
+{
+"word": "grasp",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "grass",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "heaven",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "habit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "heavy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "habitat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "heel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hair",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "height",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "grateful",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "half",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "grave",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hall",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "gray",
+"star": 1,
+"alt": [
+"grey"
+],
+"derived": []
+},
+{
+"word": "halt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "great",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hamburger",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "greed",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hammer",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "green",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hand",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "greet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "handicap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "grief",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "handle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "grip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "handsome",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "heir",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "helicopter",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hell",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hello",
+"star": 1,
+"alt": [
+"hey",
+"hi"
+],
+"derived": []
+},
+{
+"word": "helmet",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "help",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hence",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "here",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "heritage",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hero",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "household",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "immense",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hesitate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "how",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "immigrate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "however",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "immune",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hierarchy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hug",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "impact",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "high",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "huge",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "imperial",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "highlight",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "human",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "implement",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "highway",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "humor",
+"star": 2,
+"alt": [
+"humour"
+],
+"derived": []
+},
+{
+"word": "imply",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hike",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hundred",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "import",
+"star": 0,
+"alt": [],
+"derived": [
+"importance",
+"important"
+]
+},
+{
+"word": "hill",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hunger",
+"star": 2,
+"alt": [],
+"derived": [
+"hungry"
+]
+},
+{
+"word": "hint",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hunt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "impose",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hurry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "impress",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "history",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hurt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "improve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "husband",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "in",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hobby",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hut",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "incentive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hold",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "hypothesis",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "incident",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hole",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "incline",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "holiday",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "include",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "holy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "income",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "home",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "incorporate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "homework",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "I",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "honest",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ice",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "indeed",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "honey",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "idea",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "index",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "honor",
+"star": 2,
+"alt": [
+"honour"
+],
+"derived": []
+},
+{
+"word": "ideal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "indicate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hook",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "identical",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "individual",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hope",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "identity",
+"star": 2,
+"alt": [],
+"derived": [
+"identify"
+]
+},
+{
+"word": "induce",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "horizon",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ideology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "industry",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "horror",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "if",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "infant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "horse",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ignore",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "infect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hospital",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ill",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "infer",
+"star": 0,
+"alt": [],
+"derived": [
+"inference"
+]
+},
+{
+"word": "host",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "illude",
+"star": 0,
+"alt": [],
+"derived": [
+"illusion"
+]
+},
+{
+"word": "inflate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hostile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "illustrate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "influence",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hot",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "image",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "inform",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "hotel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "imagine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ingredient",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "hour",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "imitate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "inhabit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "house",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "immediate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "inherent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "increase",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "inhibit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "intermediate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "job",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "initial",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "internal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "jog",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "inject",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "internet",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "join",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "injure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "interpret",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "joint",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "inn",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "interrupt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "joke",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "innocent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "interval",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "journal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "innovate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "intervene",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "journey",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "input",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "intimate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "joy",
+"star": 2,
+"alt": [],
+"derived": [
+"enjoy"
+]
+},
+{
+"word": "inquire",
+"star": 0,
+"alt": [
+"enquire"
+],
+"derived": []
+},
+{
+"word": "into",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "judge",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "insect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "intrigue",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "juice",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "insert",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "introduce",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "jump",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "inside",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "invade",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "junior",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "insight",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "invent",
+"star": 2,
+"alt": [],
+"derived": [
+"inventor"
+]
+},
+{
+"word": "jury",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "insist",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "invest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "just",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "inspect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "investigate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "justice",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "inspire",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "invite",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "install",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "involve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "instance",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "iron",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "instant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "instead",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "instinct",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "institute",
+"star": 0,
+"alt": [],
+"derived": [
+"institution"
+]
+},
+{
+"word": "instruct",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "instrument",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "insult",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "irony",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "keen",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "irritate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "keep",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "island",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "key",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "isolate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "kick",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "issue",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "kid",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "it",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "kill",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "item",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "insure",
+"star": 2,
+"alt": [],
+"derived": [
+"insurance"
+]
+},
+{
+"word": "kind",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "integrate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "king",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "intellect",
+"star": 0,
+"alt": [],
+"derived": [
+"intellectual"
+]
+},
+{
+"word": "kiss",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "intelligent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "kit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "intend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "jacket",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "kitchen",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "intense",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "jail",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "knee",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "intent",
+"star": 2,
+"alt": [],
+"derived": [
+"intention"
+]
+},
+{
+"word": "jam",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "knife",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "interest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "jar",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "knight",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "interfere",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "jaw",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "knock",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "interior",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "jeans",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "knot",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "know",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "league",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "linguistic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "knowledge",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "leak",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "link",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lean",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lion",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "leap",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lip",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "learn",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "liquid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lease",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "list",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "leather",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "listen",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "leave",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "literature",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lecture",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "little",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "left",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "live",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "leg",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "livingroom",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "legal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "load",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "legend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "loan",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "legislate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "local",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lamp",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "legitimate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "locate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "land",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "leisure",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lock",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "landscape",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lemon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "log",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lane",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "logic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "language",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lesson",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lone",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "let",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "long",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "large",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "letter",
+"star": 1,
+"alt": [],
+"derived": [
+"literal"
+]
+},
+{
+"word": "look",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "laser",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "level",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "loose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "last",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "liberal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "late",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "liberty",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "loss",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "latter",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "library",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lot",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "laugh",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "license",
+"star": 2,
+"alt": [
+"licence"
+],
+"derived": []
+},
+{
+"word": "loud",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "launch",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lid",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "love",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "laundry",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lie",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "low",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "law",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "life",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "loyal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lawn",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "lift",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "luck",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lawyer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "light",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lump",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lay",
+"star": 2,
+"alt": [],
+"derived": [
+"layer"
+]
+},
+{
+"word": "like",
+"star": 1,
+"alt": [],
+"derived": [
+"likely"
+]
+},
+{
+"word": "lunch",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lazy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "likewise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "luxury",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lead",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "limit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "leaf",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "line",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "label",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "labor",
+"star": 2,
+"alt": [
+"labour"
+],
+"derived": []
+},
+{
+"word": "laboratory",
+"star": 2,
+"alt": [
+"lab"
+],
+"derived": []
+},
+{
+"word": "lack",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ladder",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "lady",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lake",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "lamb",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "machine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mad",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "magazine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "magic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "magnet",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "magnificent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mail",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mathematics",
+"star": 1,
+"alt": [
+"maths",
+"math"
+],
+"derived": []
+},
+{
+"word": "metal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "method",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "matter",
+"star": 2,
+"alt": [],
+"derived": [
+"material"
+]
+},
+{
+"word": "metropolitan",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mature",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "microphone",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "maximum",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "microwave",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "may",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "middle",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "maybe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "might",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mayor",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "migrate",
+"star": 0,
+"alt": [],
+"derived": [
+"migrant"
+]
+},
+{
+"word": "meal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mild",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mean",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "military",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "main",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "meanwhile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "milk",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "maintain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "measure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mill",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "major",
+"star": 2,
+"alt": [],
+"derived": [
+"majority"
+]
+},
+{
+"word": "meat",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "million",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "make",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mechanic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mind",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "male",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mechanism",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mine",
+"star": 0,
+"alt": [],
+"derived": [
+"miner"
+]
+},
+{
+"word": "man",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "medal",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mineral",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "manage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mediate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "minimal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "manifest",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "medical",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "minimum",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "manipulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "medicine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ministry",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "manner",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "medieval",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "minor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "manufacture",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "medium",
+"star": 0,
+"alt": [],
+"derived": [
+"media"
+]
+},
+{
+"word": "minute",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "many",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "meet",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "miracle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "map",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "melon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mirror",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "marathon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "melt",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "miss",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "margin",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "member",
+"star": 1,
+"alt": [],
+"derived": [
+"membership"
+]
+},
+{
+"word": "missile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "marine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "memory",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mission",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mark",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mental",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mix",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "market",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mention",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mobile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "marry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "menu",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mock",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "marvel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "merchant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mode",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mask",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mere",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "modify",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mass",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "merge",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "model",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "master",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "merit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "moderate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "match",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mess",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "modern",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "message",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "modest",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "moist",
+"star": 0,
+"alt": [],
+"derived": [
+"moisture"
+]
+},
+{
+"word": "mystery",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nevertheless",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "molecule",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "myth",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "new",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "moment",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "money",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "news",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "newspaper",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "monitor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "next",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "monkey",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "monster",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "month",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "monument",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mood",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "moon",
+"star": 1,
+"alt": [],
+"derived": [
+"half­moon"
+]
+},
+{
+"word": "moral",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "moreover",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "morning",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mortal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mother",
+"star": 1,
+"alt": [],
+"derived": [
+"mom",
+"mommy"
+]
+},
+{
+"word": "motion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "motive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nice",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "nail",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "night",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "naive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nightmare",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "naked",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nine",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "name",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "no",
+"star": 1,
+"alt": [
+"nope",
+"nay"
+],
+"derived": []
+},
+{
+"word": "narrate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "noble",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "narrow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nod",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nasty",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "noise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nation",
+"star": 1,
+"alt": [],
+"derived": [
+"international"
+]
+},
+{
+"word": "native",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nominate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "none",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nature",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "nonetheless",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "navy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "noon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "near",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "nor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "motor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "neat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "norm",
+"star": 0,
+"alt": [],
+"derived": [
+"normal"
+]
+},
+{
+"word": "mount",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "necessary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "north",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mountain",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "neck",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "nose",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mouse",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "need",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "not",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mouth",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "needle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "note",
+"star": 1,
+"alt": [],
+"derived": [
+"notion"
+]
+},
+{
+"word": "move",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "negate",
+"star": 0,
+"alt": [],
+"derived": [
+"negative"
+]
+},
+{
+"word": "notebook",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "movie",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "neglect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nothing",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "much",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "negotiate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "notice",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "mud",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "neighbor",
+"star": 2,
+"alt": [
+"neighbour"
+],
+"derived": []
+},
+{
+"word": "novel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "multiple",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "neither",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "now",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "murder",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nephew",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nowadays",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "muscle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nerve",
+"star": 2,
+"alt": [],
+"derived": [
+"nervous"
+]
+},
+{
+"word": "nowhere",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "museum",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "nuclear",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "mushroom",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "net",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "number",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "music",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "network",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "numerous",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "must",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "neutral",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "nurse",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "mutual",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "never",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "nut",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "opportune",
+"star": 0,
+"alt": [],
+"derived": [
+"opportunity"
+]
+},
+{
+"word": "own",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "oppose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "opt",
+"star": 0,
+"alt": [],
+"derived": [
+"option"
+]
+},
+{
+"word": "optimist",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "oak",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "obey",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "object",
+"star": 2,
+"alt": [],
+"derived": [
+"objective"
+]
+},
+{
+"word": "oblige",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "observe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "obsess",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "obtain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "or",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pace",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "oral",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pack",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "orange",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pad",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "orbit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "page",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "orchestra",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "order",
+"star": 2,
+"alt": [],
+"derived": [
+"disorder"
+]
+},
+{
+"word": "pain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ordinary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "paint",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "organ",
+"star": 0,
+"alt": [],
+"derived": [
+"organic",
+"organize / organise"
+]
+},
+{
+"word": "pair",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "palace",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "orient",
+"star": 0,
+"alt": [],
+"derived": [
+"orientation"
+]
+},
+{
+"word": "pale",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "origin",
+"star": 0,
+"alt": [],
+"derived": [
+"original"
+]
+},
+{
+"word": "palm",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "other",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pan",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "odd",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "otherwise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "panel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "of",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ought",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "panic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "off",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "out",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pants",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "offend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "outcome",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "paper",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "offer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "outline",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "parade",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "office",
+"star": 1,
+"alt": [],
+"derived": [
+"official"
+]
+},
+{
+"word": "output",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "paragraph",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "officer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "outrage",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "parallel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "often",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "outstanding",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pardon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "oil",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "oven",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "parent",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "okay",
+"star": 1,
+"alt": [
+"okey",
+"OK"
+],
+"derived": []
+},
+{
+"word": "over",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "park",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "old",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "overall",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "parliament",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "on",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "overcome",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "part",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "once",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "overhead",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "participate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "one",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "overlap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "particle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "only",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "overlook",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "particular",
+"star": 2,
+"alt": [],
+"derived": [
+"particularly"
+]
+},
+{
+"word": "open",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "overnight",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "partner",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "opera",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "oversea",
+"star": 0,
+"alt": [
+"overseas"
+],
+"derived": []
+},
+{
+"word": "party",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "operate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "overwhelm",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pass",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "opinion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "owe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "passage",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "obvious",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "occasion",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "occupy",
+"star": 0,
+"alt": [],
+"derived": [
+"occupation"
+]
+},
+{
+"word": "occur",
+"star": 2,
+"alt": [],
+"derived": [
+"occurrence"
+]
+},
+{
+"word": "ocean",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "passenger",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "persuade",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "plate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "passion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "platform",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "passport",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "phase",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "play",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "past",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "phenomenon",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "please",
+"star": 1,
+"alt": [],
+"derived": [
+"pleasant",
+"pleasure"
+]
+},
+{
+"word": "pat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "philosophy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "patch",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "photograph",
+"star": 2,
+"alt": [
+"photo"
+],
+"derived": []
+},
+{
+"word": "plenty",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "patent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "phrase",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "plot",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "path",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "physical",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "plus",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "patient",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "physics",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pocket",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pattern",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "piano",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "poem",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pause",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pick",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "poet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pave",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "picnic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "point",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pay",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "picture",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "poison",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "peace",
+"star": 2,
+"alt": [],
+"derived": [
+"peaceful"
+]
+},
+{
+"word": "pie",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pole",
+"star": 2,
+"alt": [],
+"derived": [
+"polar"
+]
+},
+{
+"word": "peak",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "piece",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "police",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pear",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pig",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "policy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "peasant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pile",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "polish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "peel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pill",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "polite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "peer",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pilot",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "politics",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pen",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "poll",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "penalty",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pinch",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pollute",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pencil",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pond",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "people",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pink",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pool",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pepper",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pioneer",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "poor",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "per",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pipe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pop",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "perceive",
+"star": 0,
+"alt": [],
+"derived": [
+"perception"
+]
+},
+{
+"word": "pitch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "popular",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "perfect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pity",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "populate",
+"star": 0,
+"alt": [],
+"derived": [
+"population"
+]
+},
+{
+"word": "perform",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pizza",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "pork",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "perhaps",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "place",
+"star": 1,
+"alt": [],
+"derived": [
+"displace"
+]
+},
+{
+"word": "port",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "period",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "plain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "portion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "permanent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "plan",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "portrait",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "permit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "plane",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pose",
+"star": 0,
+"alt": [],
+"derived": [
+"dispose"
+]
+},
+{
+"word": "persist",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "planet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "posit",
+"star": 0,
+"alt": [],
+"derived": [
+"position",
+"positive"
+]
+},
+{
+"word": "person",
+"star": 2,
+"alt": [],
+"derived": [
+"personality"
+]
+},
+{
+"word": "plant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "possess",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "perspective",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "plastic",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "possible",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "post",
+"star": 2,
+"alt": [],
+"derived": [
+"poster"
+]
+},
+{
+"word": "pride",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "proof",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pot",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "priest",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "proper",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "potato",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "prime",
+"star": 2,
+"alt": [],
+"derived": [
+"primary"
+]
+},
+{
+"word": "property",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "potential",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "primitive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "proportion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pour",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prince",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "propose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "powder",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "principal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prospect",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "power",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "principle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prosper",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "practical",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "print",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "protect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "practice",
+"star": 2,
+"alt": [
+"practise"
+],
+"derived": []
+},
+{
+"word": "prior",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "protein",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "praise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prison",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "protest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pray",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "privacy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "proud",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "preach",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "private",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prove",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "precede",
+"star": 0,
+"alt": [],
+"derived": [
+"unprecedented"
+]
+},
+{
+"word": "privilege",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "provide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "precise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prize",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "province",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "predator",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "probable",
+"star": 2,
+"alt": [],
+"derived": [
+"probably"
+]
+},
+{
+"word": "provoke",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "predict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "problem",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "psychology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prefer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "proceed",
+"star": 2,
+"alt": [],
+"derived": [
+"procedure"
+]
+},
+{
+"word": "pub",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pregnant",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "process",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "public",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prejudice",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "produce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "publish",
+"star": 0,
+"alt": [],
+"derived": [
+"publisher"
+]
+},
+{
+"word": "premium",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "profession",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pull",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prepare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "professor",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pump",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prescribe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "profile",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "punch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "presence",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "profit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "punish",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "present",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "profound",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pupil",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "preserve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "program",
+"star": 1,
+"alt": [
+"programme"
+],
+"derived": [
+"programmatic"
+]
+},
+{
+"word": "puppy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "preside",
+"star": 0,
+"alt": [],
+"derived": [
+"president"
+]
+},
+{
+"word": "purchase",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "press",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "progress",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "presume",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prohibit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "purple",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pretend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "project",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "purpose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "pretty",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "prominent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pursue",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "prevail",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "promise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "push",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "prevent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "promote",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "put",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "previous",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prompt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "puzzle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "prey",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "pronounce",
+"star": 2,
+"alt": [],
+"derived": [
+"pronunciation"
+]
+},
+{
+"word": "price",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rather",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reinforce",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rational",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "reject",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "raw",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "relate",
+"star": 2,
+"alt": [],
+"derived": [
+"relative",
+"relation",
+"relationship"
+]
+},
+{
+"word": "reach",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "react",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "relax",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "read",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "release",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ready",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "relevant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "real",
+"star": 2,
+"alt": [],
+"derived": [
+"realize / realise"
+]
+},
+{
+"word": "relief",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rear",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "relieve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "reason",
+"star": 2,
+"alt": [],
+"derived": [
+"reasonable"
+]
+},
+{
+"word": "religion",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rebel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "reluctant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "quit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "receipt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rely",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "quite",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "receive",
+"star": 2,
+"alt": [],
+"derived": [
+"reception"
+]
+},
+{
+"word": "remain",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "quiz",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "recent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remark",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "quote",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "recipe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remedy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "recognize",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remember",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "recommend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remind",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "record",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remote",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "recover",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "remove",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "recreation",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "recruit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "repair",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "red",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "repeat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reduce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "replace",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "refer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reply",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "refine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "report",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reflect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "represent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reform",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "republic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "refrigerate",
+"star": 0,
+"alt": [],
+"derived": [
+"refrigerator"
+]
+},
+{
+"word": "reputation",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "refuse",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "request",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "regard",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "require",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "region",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rescue",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "register",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "research",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "regret",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "resemble",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "regular",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reserve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "regulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "reside",
+"star": 0,
+"alt": [],
+"derived": [
+"resident"
+]
+},
+{
+"word": "quality",
+"star": 2,
+"alt": [],
+"derived": [
+"qualify"
+]
+},
+{
+"word": "quantity",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "quarter",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "queen",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "question",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "questionnaire",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "quick",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "quiet",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rabbit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "race",
+"star": 1,
+"alt": [],
+"derived": [
+"racial"
+]
+},
+{
+"word": "radio",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rage",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rail",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rain",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rainbow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "raise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rally",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "random",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "range",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rank",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rapid",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "resign",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "right",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "run",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "resist",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ring",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rural",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "resolve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "riot",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rush",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "resort",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "resource",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "risk",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "respect",
+"star": 2,
+"alt": [],
+"derived": [
+"respective"
+]
+},
+{
+"word": "rival",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "respond",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "river",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "responsible",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "road",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "roar",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "restaurant",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "roast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "restore",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rob",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sad",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "restrain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "robot",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "safe",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "restrict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rock",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sail",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "restroom",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rocket",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "salad",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "result",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rod",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "salary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "resume",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "role",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sale",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "retail",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "roll",
+"star": 2,
+"alt": [],
+"derived": [
+"enroll / enrol"
+]
+},
+{
+"word": "salt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "retain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "romantic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "same",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "retire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "roof",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sample",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "retreat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "room",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sand",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "return",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "root",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sandwich",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "reveal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rope",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "satellite",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "revenge",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rose",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "satisfy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reverse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rot",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sauce",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "revise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rough",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "save",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "revive",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "round",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "say",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "revolution",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "route",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scale",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "reward",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "routine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "scan",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rhythm",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "row",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scandal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ribbon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "royal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scarce",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "rice",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rub",
+"star": 2,
+"alt": [],
+"derived": [
+"rubber"
+]
+},
+{
+"word": "scare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rich",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "rude",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scarf",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ruin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scatter",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ride",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "rule",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scene",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ridicule",
+"star": 0,
+"alt": [],
+"derived": [
+"ridiculous"
+]
+},
+{
+"word": "rumor",
+"star": 0,
+"alt": [
+"rumour"
+],
+"derived": []
+},
+{
+"word": "sack",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sacred",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sacrifice",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "schedule",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scheme",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sensible",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ship",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "scholar",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sentence",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shirt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "school",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sentiment",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "shock",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "science",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "separate",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shoe",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "scissors",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sequence",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "shoot",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scope",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "series",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shop",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "score",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "serious",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shore",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "scramble",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "serve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "short",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "scratch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "service",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "should",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "scream",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "session",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shoulder",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "screen",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "set",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "shout",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "screw",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "settle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "show",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sculpt",
+"star": 0,
+"alt": [],
+"derived": [
+"sculpture"
+]
+},
+{
+"word": "seven",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "shower",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sea",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "several",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shut",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "seal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "severe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "shy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "search",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sew",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sick",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "season",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sex",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "side",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "seat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shade",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sigh",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "second",
+"star": 1,
+"alt": [],
+"derived": [
+"secondary"
+]
+},
+{
+"word": "shadow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "secret",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shake",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sign",
+"star": 2,
+"alt": [],
+"derived": [
+"significant"
+]
+},
+{
+"word": "secretary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shall",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "silent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "section",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shallow",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "silly",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sector",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "shame",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "silver",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "secure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shape",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "similar",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "see",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "share",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "simple",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "seed",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sharp",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "simulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "seek",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shave",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "simultaneous",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "seem",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "she",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sin",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "seize",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sheep",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "since",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "select",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sheet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sing",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "self",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shelf",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "single",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sell",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "shell",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sink",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "send",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "shelter",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sister",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "senior",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "shift",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sense",
+"star": 2,
+"alt": [],
+"derived": [
+"sensation"
+]
+},
+{
+"word": "shine",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "site",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "situate",
+"star": 2,
+"alt": [],
+"derived": [
+"situation"
+]
+},
+{
+"word": "social",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spectrum",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "six",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "society",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "speech",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "size",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sociology",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "speed",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "skate",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sock",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spell",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ski",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "soft",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "skill",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "software",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sphere",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "skin",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "soil",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spill",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "skip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "soldier",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "skirt",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sole",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "spirit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sky",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "solid",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "slave",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "solve",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "splash",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sleep",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "some",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "split",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "slice",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "somewhat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spoil",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "slide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "son",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sponsor",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "slight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "song",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spoon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "slim",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "soon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sport",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "slip",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sophisticate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "spot",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "slope",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sore",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spouse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "slow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sorry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spray",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "small",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sort",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spread",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "smart",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "soul",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spring",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "smash",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sound",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "smell",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "soup",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "square",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "smile",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sour",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "squeeze",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "smoke",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "source",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stable",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "smooth",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "south",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stack",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "snack",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "space",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "staff",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "snake",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "spaghetti",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "snap",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "span",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sneak",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "spare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stairs",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "snow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spark",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stamp",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "so",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "speak",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stand",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "soak",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "species",
+"star": 2,
+"alt": [],
+"derived": [
+"special"
+]
+},
+{
+"word": "standard",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "soap",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "specific",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "star",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "soccer",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "spectacle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stare",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "start",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stream",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "suicide",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "starve",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "street",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "suit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "state",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stress",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "suite",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "station",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stretch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sum",
+"star": 2,
+"alt": [],
+"derived": [
+"summary"
+]
+},
+{
+"word": "statistic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "strict",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "summer",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "statue",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "strike",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "summit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "status",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "string",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sun",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stay",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "strip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "super",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "steady",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stripe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "superb",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "steak",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "stroke",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "superior",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "steal",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "strong",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "supervise",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "steam",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "structure",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "supper",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "steel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "struggle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "supplement",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "steep",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "studio",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "supply",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stem",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "study",
+"star": 1,
+"alt": [],
+"derived": [
+"student"
+]
+},
+{
+"word": "support",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "step",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stuff",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "suppose",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stick",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "style",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "sure",
+"star": 1,
+"alt": [],
+"derived": [
+"ensure"
+]
+},
+{
+"word": "stiff",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "subject",
+"star": 2,
+"alt": [],
+"derived": [
+"subjective"
+]
+},
+{
+"word": "surface",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "still",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "submarine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "surgery",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stimulate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "submit",
+"star": 0,
+"alt": [],
+"derived": [
+"submission"
+]
+},
+{
+"word": "surprise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stir",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "subscribe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "surrender",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stitch",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "substance",
+"star": 0,
+"alt": [],
+"derived": [
+"substantial"
+]
+},
+{
+"word": "surround",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stock",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "substitute",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "survey",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stomach",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "subtle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "survive",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stone",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "suburb",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "suspect",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "stop",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "subway",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "suspend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "store",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "succeed",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sustain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "storm",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "success",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "swallow",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "story",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "such",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "swear",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "stove",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "suck",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "sweat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "straight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sudden",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sweater",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "strain",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "suffer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sweep",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "strange",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "suffice",
+"star": 0,
+"alt": [],
+"derived": [
+"sufficient"
+]
+},
+{
+"word": "sweet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "strategy",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sugar",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "swell",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "strawberry",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "suggest",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "swift",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "swim",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "technology",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "theory",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "swing",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "teenage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "therapy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "switch",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "telegraph",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "there",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "symbol",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "telephone",
+"star": 1,
+"alt": [
+"phone"
+],
+"derived": []
+},
+{
+"word": "therefore",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "sympathy",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "television",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "they",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "symphony",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tell",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "thick",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "symptom",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "temperature",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thief",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "system",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "temple",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "thin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "temporary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "thing",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tempt",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "think",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ten",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "third",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tenant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "thirst",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tend",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thirteen",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tender",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "thirty",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tennis",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "this",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "table",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tackle",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tag",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tail",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tense",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thorough",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "take",
+"star": 1,
+"alt": [],
+"derived": [
+"mistake"
+]
+},
+{
+"word": "tent",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "though",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tale",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "term",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thousand",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "talent",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "terminal",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "thread",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "talk",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "terminate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "threat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tall",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "terrace",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "three",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tank",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "terrible",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thrill",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tap",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "terrific",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "throat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tape",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "territory",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "through",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "target",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "terror",
+"star": 0,
+"alt": [],
+"derived": [
+"terrorist"
+]
+},
+{
+"word": "throw",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "task",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "test",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "thumb",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "taste",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "text",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thus",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tax",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "textbook",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tick",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "taxi",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "than",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "ticket",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tea",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "thank",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tide",
+"star": 2,
+"alt": [],
+"derived": [
+"tidy"
+]
+},
+{
+"word": "teach",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "that",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tie",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "team",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "the",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tiger",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tear",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "theater",
+"star": 2,
+"alt": [
+"theatre"
+],
+"derived": []
+},
+{
+"word": "tight",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tease",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "theme",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "till",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "technique",
+"star": 2,
+"alt": [
+"technic"
+],
+"derived": []
+},
+{
+"word": "then",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "timber",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "time",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "trace",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "trunk",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "track",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "trust",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tiny",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "trade",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "truth",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tip",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tradition",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "try",
+"star": 1,
+"alt": [],
+"derived": [
+"trial"
+]
+},
+{
+"word": "tire",
+"star": 1,
+"alt": [],
+"derived": [
+"tired"
+]
+},
+{
+"word": "traffic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tube",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tissue",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tragic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tune",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "title",
+"star": 2,
+"alt": [],
+"derived": [
+"entitle"
+]
+},
+{
+"word": "trail",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tunnel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "to",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "train",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "turn",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "toast",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "transact",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "turnover",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "today",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "transfer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "twelve",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "toe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "transform",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "twenty",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "together",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "transition",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "twenty-first",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "toilet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "translate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "twenty-second",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tomato",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "transmit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "twenty-third",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tomorrow",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "transport",
+"star": 2,
+"alt": [],
+"derived": [
+"transportation"
+]
+},
+{
+"word": "twice",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tone",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "trap",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "twin",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tongue",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "travel",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "twist",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tonight",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tray",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "two",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "too",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "treasure",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "type",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tool",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "treat",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tooth",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "treaty",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "top",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tree",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "topic",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tremendous",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "torture",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "trend",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "ugly",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "toss",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "triangle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "ultimate",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "total",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "tribe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "umbrella",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "touch",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "trick",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "uncle",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tough",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "trigger",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "under",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "tour",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "trim",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "undergo",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "toward",
+"star": 2,
+"alt": [
+"towards"
+],
+"derived": []
+},
+{
+"word": "trip",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "underlie",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "towel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "triumph",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "undermine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "tower",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "troop",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "understand",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "town",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "trouble",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "undertake",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "toxic",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "truck",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "uniform",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "toy",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "true",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "unify",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "unique",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vehicle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "unit",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "venture",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "unite",
+"star": 2,
+"alt": [],
+"derived": [
+"union"
+]
+},
+{
+"word": "verb",
+"star": 0,
+"alt": [],
+"derived": [
+"verbal"
+]
+},
+{
+"word": "universe",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "verse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "university",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "version",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "unless",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "versus",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "until",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vertical",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "up",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "very",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "update",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vessel",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "upon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "veterinarian",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "upper",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "via",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wander",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "upset",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vice",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "want",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "upward",
+"star": 0,
+"alt": [
+"upwards"
+],
+"derived": []
+},
+{
+"word": "victim",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "war",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "urban",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "victory",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "warehouse",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "urge",
+"star": 0,
+"alt": [],
+"derived": [
+"urgent"
+]
+},
+{
+"word": "video",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "warm",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "use",
+"star": 1,
+"alt": [],
+"derived": [
+"usual"
+]
+},
+{
+"word": "view",
+"star": 2,
+"alt": [],
+"derived": [
+"interview",
+"review"
+]
+},
+{
+"word": "warn",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "utilize",
+"star": 0,
+"alt": [
+"utilise"
+],
+"derived": []
+},
+{
+"word": "vigor",
+"star": 0,
+"alt": [],
+"derived": [
+"vigorous"
+]
+},
+{
+"word": "warrant",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "villa",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wash",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "village",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "waste",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "violent",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "watch",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "violin",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "water",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "virgin",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "watermelon",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vacate",
+"star": 0,
+"alt": [],
+"derived": [
+"vacation"
+]
+},
+{
+"word": "virtue",
+"star": 0,
+"alt": [],
+"derived": [
+"virtual"
+]
+},
+{
+"word": "wave",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vaccine",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "virus",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "way",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vacuum",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "visible",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "we",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vague",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vision",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "weak",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "valid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "visit",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wealth",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "valley",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "visual",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "weapon",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "value",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vital",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wear",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "van",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vivid",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "weather",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vanish",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vocabulary",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "weave",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "various",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "vocation",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "website",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vary",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "voice",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wedding",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "vast",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "volume",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "weed",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vegetable",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "volunteer",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "week",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "utter",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "vote",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wage",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wait",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wake",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "walk",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wall",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "weekend",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wing",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "yes",
+"star": 1,
+"alt": [
+"yeah",
+"yep"
+],
+"derived": []
+},
+{
+"word": "weigh",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "winter",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "yesterday",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "weight",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wipe",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "yet",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "weird",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wire",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "yield",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "welcome",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wise",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "you",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "welfare",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wish",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "young",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "well",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wit",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "west",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "with",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wet",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "withdraw",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "whale",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "within",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "what",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "without",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wheat",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "witness",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wheel",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "woman",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "when",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wonder",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "where",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wood",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "whereas",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wool",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "whether",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "word",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "which",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "work",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "while",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "world",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "whip",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "worry",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "whisper",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "worship",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "whistle",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "worth",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "white",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "would",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "who",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wound",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "whole",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wrap",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "why",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wreck",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "wicked",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "write",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wide",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "wrong",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "zebra",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "zero",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "zone",
+"star": 0,
+"alt": [],
+"derived": []
+},
+{
+"word": "zoo",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wife",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wild",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "will",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "win",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wind",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "window",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "wine",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "year",
+"star": 1,
+"alt": [],
+"derived": []
+},
+{
+"word": "yell",
+"star": 2,
+"alt": [],
+"derived": []
+},
+{
+"word": "yellow",
+"star": 1,
+"alt": [],
+"derived": []
+}
+]

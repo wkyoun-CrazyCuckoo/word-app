@@ -1,0 +1,15 @@
+{
+  "name": "학년별 영단어",
+  "short_name": "영단어",
+  "description": "교육부 기본어휘 3,000단어로 초1부터 고3까지 학년별로 공부하는 영단어 앱",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#3b6ef5",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
