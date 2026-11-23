@@ -1,5 +1,5 @@
 // 오프라인 캐시. 파일을 고치면 VERSION을 올려 주십시오.
-const VERSION = 'wordapp-v2';
+const VERSION = 'wordapp-v3';
 const FILES = ['./', './index.html', './style.css', './app.js', './words.js', './manifest.json',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', e => {

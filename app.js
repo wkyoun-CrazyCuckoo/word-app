@@ -7,6 +7,7 @@ const INTERVALS = [0, 1, 3, 7, 14, 30];   // 상자(box)별 다음 복습까지 
 const QUIZ_LEN = 10;
 const WRONG_CLEAR = 3;                     // 오답노트에서 연속으로 맞히면 졸업하는 횟수
 const KEY = 'wordapp.v1';
+const REDUCED_MOTION = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 const $view = document.getElementById('view');
 const $title = document.getElementById('title');
@@ -161,13 +162,13 @@ function viewUnit(g, u) {
 /* ---------- 화면: 플래시카드 ---------- */
 function viewFlash(ids, title, backTo) {
   setHeader(title, true);
-  if (!ids.length) { $view.innerHTML = `<div class="empty">학습할 단어가 없습니다.</div><a class="btn" href="${backTo}">돌아가기</a>`; return; }
+  if (!ids.length) { $view.innerHTML = `<div class="empty">학습할 단어가 없습니다.</div><a class="btn" href="${backTo}" data-replace>돌아가기</a>`; return; }
   const queue = ids.slice(); const retried = new Set(); const total = ids.length; let done = 0; let known = 0;
   function show() {
     if (!queue.length) {
       $view.innerHTML = `<div class="card done"><div class="big">👏</div><h2>${total}단어를 모두 봤습니다</h2>
         <p class="muted">한 번에 알았던 단어 ${known}개. 헷갈리거나 몰랐던 단어는 복습 일정에 넣어 두었습니다.</p>
-        <a class="btn" href="${backTo}">완료</a></div>`;
+        <a class="btn" href="${backTo}" data-replace>완료</a></div>`;
       return;
     }
     const w = W(queue[0]);
@@ -181,14 +182,23 @@ function viewFlash(ids, title, backTo) {
       <div class="rate"><button class="r0" data-r="0">몰라요</button><button class="r1" data-r="1">헷갈려요</button><button class="r2" data-r="2">알아요</button></div>`;
     const fc = document.getElementById('fc');
     fc.onclick = () => fc.classList.toggle('flip');
+    if (entering) { fc.classList.add('enter'); entering = false; }
+    let busy = false;
     $view.querySelectorAll('[data-r]').forEach(b => b.onclick = () => {
+      if (busy) return; busy = true;   // 애니메이션 중 연속 탭 방지
       const r = +b.dataset.r, id = queue.shift();
       if (!retried.has(id)) { rate(id, r); bump(); if (r === 2) known++; }
       if (r === 0 && !retried.has(id)) { retried.add(id); queue.push(id); }   // 모르는 단어는 이번 학습 끝에 한 번 더
       else done++;
-      save(); show();
+      save();
+      // 카드 넘김: 알아요는 오른쪽, 몰라요는 왼쪽, 헷갈려요는 아래로 빠지고 다음 카드가 올라옴
+      fc.classList.remove('enter');
+      fc.classList.add(['out-left', 'out-down', 'out-right'][r]);
+      entering = true;
+      setTimeout(show, REDUCED_MOTION ? 0 : 260);
     });
   }
+  let entering = false;
   show();
 }
 
@@ -217,7 +227,7 @@ function checkTyped(w, input, en) {
 function viewQuiz(ids, title, backTo, opts) {
   opts = opts || {};
   setHeader(title, true);
-  if (!ids.length) { $view.innerHTML = `<div class="empty">${opts.emptyMsg || '풀 문제가 없습니다.'}</div><a class="btn" href="${backTo}">돌아가기</a>`; return; }
+  if (!ids.length) { $view.innerHTML = `<div class="empty">${opts.emptyMsg || '풀 문제가 없습니다.'}</div><a class="btn" href="${backTo}" data-replace>돌아가기</a>`; return; }
   const qs = shuffle(ids).slice(0, QUIZ_LEN); let i = 0, score = 0; const missed = [];
   function options(w) {
     const pool = (byGrade[w.g] || WORDS).filter(x => x.id !== w.id && x.m !== w.m && x.w !== w.w);
@@ -299,7 +309,7 @@ function viewQuiz(ids, title, backTo, opts) {
     $view.innerHTML = `<div class="card done"><div class="big">${score === qs.length ? '🏆' : score >= qs.length * 0.7 ? '😊' : '💪'}</div>
       <h2>${qs.length}문제 중 ${score}문제 맞혔습니다</h2>
       ${missed.length ? `<ul class="list" style="text-align:left">${missed.map(id => `<li><span class="w">${esc(W(id).w)}</span><span class="m">${esc(W(id).m)}</span></li>`).join('')}</ul>` : '<p class="muted">모두 맞혔습니다!</p>'}
-      <button class="btn" id="again">다시 풀기</button><a class="btn ghost" href="${backTo}">완료</a></div>`;
+      <button class="btn" id="again">다시 풀기</button><a class="btn ghost" href="${backTo}" data-replace>완료</a></div>`;
     document.getElementById('again').onclick = () => route();
   }
   start();
@@ -380,7 +390,24 @@ function route() {
     default: return viewHome();
   }
 }
-$back.onclick = () => history.length > 1 ? history.back() : (location.hash = '#/home');
+// 뒤로 가기는 브라우저 기록이 아니라 화면의 상위 화면으로 이동합니다(기록을 쓰면 카드 ↔ 단원 사이를 맴돌 수 있음).
+function parentOf(hash) {
+  const p = (hash || '#/home').slice(2).split('/');
+  switch (p[0]) {
+    case 'flash': case 'quiz': return `#/unit/${p[1]}/${p[2]}`;
+    case 'unit': return '#/units';
+    case 'review': return p[1] ? '#/review' : '#/home';
+    case 'wrong': return p[1] ? '#/wrong' : '#/home';
+    default: return '#/home';
+  }
+}
+function go(hash) { location.replace(hash); }
+$back.onclick = () => go(parentOf(location.hash));
+// 완료·돌아가기 링크도 기록을 쌓지 않고 이동
+document.addEventListener('click', e => {
+  const a = e.target.closest('a[data-replace]');
+  if (a) { e.preventDefault(); go(a.getAttribute('href')); }
+});
 $gradeBtn.onclick = () => location.hash = '#/grade';
 window.addEventListener('hashchange', route);
 route();

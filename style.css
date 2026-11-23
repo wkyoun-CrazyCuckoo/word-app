@@ -106,3 +106,15 @@ dialog::backdrop{background:rgba(0,0,0,.4)}
 .fb.no{background:var(--bad-soft);color:var(--bad)}
 .fb.no b{color:var(--text)}
 .seg + .seg{margin-top:-4px}
+/* 카드 넘김 애니메이션 */
+.flash{transition:transform .26s ease-in,opacity .26s ease-in}
+.flash.out-right{transform:translateX(120%) rotate(12deg);opacity:0}
+.flash.out-left{transform:translateX(-120%) rotate(-12deg);opacity:0}
+.flash.out-down{transform:translateY(40%) scale(.9);opacity:0}
+.flash.enter{animation:cardIn .3s ease-out}
+@keyframes cardIn{from{transform:translateY(24px) scale(.94);opacity:0}to{transform:none;opacity:1}}
+main{overflow-x:hidden}
+@media (prefers-reduced-motion: reduce){
+  .flash,.flash .inner{transition:none}
+  .flash.enter{animation:none}
+}
