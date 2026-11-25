@@ -23,6 +23,8 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
     ok('초3 전체 156', (await p.textContent('main')).includes('156'));
     await p.click('#gradeBtn'); await p.click('[data-g="7"]'); await p.waitForTimeout(200);
     ok('학년 바꾸기 → 중1, 300단어', (await p.textContent('#gradeBtn')) === '중1' && (await p.textContent('main')).includes('300'));
+    await p.click('#gradeBtn'); await p.click('[data-g="12"]'); await p.waitForTimeout(200);
+    ok('고3 선택 → 기본 500 + 추가 261 = 761단어', (await p.textContent('main')).includes('761'));
     await p.click('#gradeBtn'); await p.click('#back'); await p.waitForTimeout(200);
     ok('학년 화면에서 < 누르면 홈', (await hash()) === '#/home');
     await p.click('#gradeBtn'); await p.click('[data-g="1"]'); await p.waitForTimeout(200);
