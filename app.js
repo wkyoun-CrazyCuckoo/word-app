@@ -41,6 +41,9 @@ function streak() {
 
 /* ---------- 단어 ---------- */
 const byGrade = {};
+const APP_VERSION = 'v5';
+const DATA_UPDATED = '2026-11-25';
+const addedCount = WORDS.filter(w => w.lv === 'added').length;
 for (const w of WORDS) (byGrade[w.g] = byGrade[w.g] || []).push(w);
 const unitsOf = g => Math.ceil((byGrade[g] || []).length / UNIT_SIZE);
 const unitWords = (g, u) => (byGrade[g] || []).slice(u * UNIT_SIZE, (u + 1) * UNIT_SIZE);
@@ -357,7 +360,16 @@ function viewSettings() {
     <div class="card"><h2>학년</h2><button class="btn ghost" id="chg">학년 바꾸기 (지금: ${S.grade ? GRADES[S.grade] : '없음'})</button></div>
     <div class="card"><h2>기록</h2><p class="muted">공부한 날 ${days}일 · 누적 학습 ${totalActs}회 · 현재 연속 ${streak()}일</p>
       <button class="btn ghost" id="reset" style="color:var(--bad)">학습 기록 모두 지우기</button></div>
-    <div class="card"><h2>앱 정보</h2><p class="muted">단어 출처: 교육부 고시 2022 개정 영어과 교육과정 [별표 3] 기본 어휘 3,000단어, 그리고 고학년용으로 앱에서 직접 고른 수능 대비 단어 577개(출판사 단어장 내용은 쓰지 않음). 학년 배정과 한글 뜻은 학습 편의를 위해 앱에서 정한 것입니다.<br>
+    <div class="card"><h2>앱 정보</h2>
+      <ul class="list" id="appinfo">
+        <li><span>앱 버전</span><b>${APP_VERSION}</b></li>
+        <li><span>단어 업데이트</span><b>${DATA_UPDATED}</b></li>
+        <li><span>전체 단어</span><b>${WORDS.length.toLocaleString()}개</b></li>
+        <li><span>교육부 기본 어휘</span><b>${(WORDS.length - addedCount).toLocaleString()}개</b></li>
+        <li><span>수능 대비 추가 단어</span><b>${addedCount.toLocaleString()}개</b></li>
+      </ul>
+      <p class="muted">최근 변경 (${DATA_UPDATED}): 중2~고3에 수능 대비 단어 ${addedCount}개를 추가했습니다. 추가 단어는 각 학년 단원 목록의 뒤쪽 새 단원에 있습니다.</p>
+      <p class="muted">단어 출처: 교육부 고시 2022 개정 영어과 교육과정 [별표 3] 기본 어휘 3,000단어, 그리고 고학년용으로 앱에서 직접 고른 수능 대비 단어 577개(출판사 단어장 내용은 쓰지 않음). 학년 배정과 한글 뜻은 학습 편의를 위해 앱에서 정한 것입니다.<br>
       학습 기록은 이 기기에만 저장됩니다.</p></div>
     <dialog id="dlg"><h2>정말 지울까요?</h2><p class="muted">모든 학습 기록, 복습 일정, 오답노트가 지워집니다.</p>
       <div class="row"><button class="btn ghost" id="no">취소</button><button class="btn" id="yes" style="background:var(--bad)">지우기</button></div></dialog>`;
@@ -413,5 +425,10 @@ window.addEventListener('hashchange', route);
 route();
 
 if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
-  navigator.serviceWorker.register('sw.js').catch(() => {});
+  navigator.serviceWorker.register('sw.js').then(r => r.update()).catch(() => {});
+  // 새 버전이 설치되면 한 번 새로고침해서 새 단어와 화면을 바로 보여 줍니다.
+  const hadController = !!navigator.serviceWorker.controller; let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (hadController && !reloaded) { reloaded = true; location.reload(); }
+  });
 }
