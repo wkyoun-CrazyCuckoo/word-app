@@ -91,7 +91,7 @@ function viewGrade() {
     Array.from({ length: to - from + 1 }, (_, i) => from + i).map(g =>
       `<button data-g="${g}" class="${S.grade === g ? 'on' : ''}">${GRADES[g]}</button>`).join('') + '</div>';
   $view.innerHTML = `<div class="card"><h2>몇 학년인가요?</h2>
-    <p class="muted">교육부 2022 개정 교육과정 기본어휘 3,000단어를 학년별로 나눠 두었습니다.</p>
+    <p class="muted">교육부 2022 개정 교육과정 기본어휘 3,000단어에 수능 대비 단어 577개를 더해 학년별로 나눠 두었습니다.</p>
     ${block('초등학교', 1, 6)}${block('중학교', 7, 9)}${block('고등학교', 10, 12)}</div>`;
   $view.querySelectorAll('[data-g]').forEach(b => b.onclick = () => { S.grade = +b.dataset.g; save(); location.hash = '#/home'; });
 }
@@ -357,7 +357,7 @@ function viewSettings() {
     <div class="card"><h2>학년</h2><button class="btn ghost" id="chg">학년 바꾸기 (지금: ${S.grade ? GRADES[S.grade] : '없음'})</button></div>
     <div class="card"><h2>기록</h2><p class="muted">공부한 날 ${days}일 · 누적 학습 ${totalActs}회 · 현재 연속 ${streak()}일</p>
       <button class="btn ghost" id="reset" style="color:var(--bad)">학습 기록 모두 지우기</button></div>
-    <div class="card"><h2>앱 정보</h2><p class="muted">단어 출처: 교육부 고시 2022 개정 영어과 교육과정 [별표 3] 기본 어휘 3,000단어. 학년 배정과 한글 뜻은 학습 편의를 위해 앱에서 정한 것입니다.<br>
+    <div class="card"><h2>앱 정보</h2><p class="muted">단어 출처: 교육부 고시 2022 개정 영어과 교육과정 [별표 3] 기본 어휘 3,000단어, 그리고 고학년용으로 앱에서 직접 고른 수능 대비 단어 577개(출판사 단어장 내용은 쓰지 않음). 학년 배정과 한글 뜻은 학습 편의를 위해 앱에서 정한 것입니다.<br>
       학습 기록은 이 기기에만 저장됩니다.</p></div>
     <dialog id="dlg"><h2>정말 지울까요?</h2><p class="muted">모든 학습 기록, 복습 일정, 오답노트가 지워집니다.</p>
       <div class="row"><button class="btn ghost" id="no">취소</button><button class="btn" id="yes" style="background:var(--bad)">지우기</button></div></dialog>`;
