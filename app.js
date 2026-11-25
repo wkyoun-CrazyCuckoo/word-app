@@ -15,13 +15,25 @@ const $back = document.getElementById('back');
 const $gradeBtn = document.getElementById('gradeBtn');
 
 /* ---------- 저장 ---------- */
-function defaultState() { return { grade: 0, goal: 20, cards: {}, wrong: {}, days: {} }; }
+// days: 날짜별 활동 횟수, ach: 목표 달성한 날(1 달성, 2 초과달성), log: 오늘의 목표 진행 기록
+function defaultState() { return { grade: 0, goal: 20, cards: {}, wrong: {}, days: {}, ach: {}, log: {} }; }
 let S = load();
 function load() {
-  try { return Object.assign(defaultState(), JSON.parse(localStorage.getItem(KEY)) || {}); }
-  catch (e) { return defaultState(); }
+  let s;
+  try { s = Object.assign(defaultState(), JSON.parse(localStorage.getItem(KEY)) || {}); }
+  catch (e) { s = defaultState(); }
+  // 목표 조건이 바뀌기 전에 공부한 날은 달성한 날로 옮겨 연속 기록을 지킵니다.
+  if (!s.achMigrated) {
+    const t = dateStr();
+    for (const d in s.days) if (d < t && s.days[d] && !s.ach[d]) s.ach[d] = 1;
+    s.achMigrated = 1;
+  }
+  return s;
 }
-function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* 저장 불가 환경 */ } }
+function save() {
+  updateAch();
+  try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { /* 저장 불가 환경 */ }
+}
 
 /* ---------- 날짜 ---------- */
 function dateStr(d) {
@@ -32,17 +44,49 @@ function dayNum(d) { d = d || new Date(); return Math.floor(Date.UTC(d.getFullYe
 const today = () => dayNum();
 function todayCount() { return S.days[dateStr()] || 0; }
 function bump() { const k = dateStr(); S.days[k] = (S.days[k] || 0) + 1; }
+// 연속 일수: 오늘의 목표를 달성한 날이 이어진 수
 function streak() {
   let n = 0; const d = new Date();
-  if (!S.days[dateStr(d)]) d.setDate(d.getDate() - 1);   // 오늘 아직 안 했으면 어제부터 셈
-  while (S.days[dateStr(d)]) { n++; d.setDate(d.getDate() - 1); }
+  if (!S.ach[dateStr(d)]) d.setDate(d.getDate() - 1);   // 오늘 아직 달성 전이면 어제부터 셈
+  while (S.ach[dateStr(d)]) { n++; d.setDate(d.getDate() - 1); }
   return n;
+}
+
+// 연속 아이콘: 오늘 달성 🔥, 미달성 🪵(꺼진 장작), 2일 이상 미달성 🧊(얼음)
+function streakIcon() {
+  if (S.ach[dateStr()]) return { ic: '🔥', cls: 'fire' };
+  const d = new Date(); d.setDate(d.getDate() - 1);
+  const everAchieved = Object.keys(S.ach).length > 0;   // 처음 쓰는 사람은 얼음 대신 장작부터
+  if (!S.ach[dateStr(d)] && everAchieved) return { ic: '🧊', cls: 'ice' };
+  return { ic: '🪵', cls: 'log' };
+}
+
+/* ---------- 오늘의 목표 ----------
+   달성: 단원 단어카드 학습(하루 목표 단어 수) + 단원 퀴즈 1회 완료
+         + 그날 퀴즈에서 틀린 단어를 오답노트 퀴즈에서 다시 맞히기
+   초과달성: 위를 모두 하고 복습까지 한 경우 */
+function todayLog() {
+  const k = dateStr();
+  if (!S.log[k]) S.log = { [k]: { s: 0, q: 0, m: [], r: 0, lu: '' } };   // 지난 날 기록은 비움(달성 여부는 ach에 남음)
+  return S.log[k];
+}
+function goalState() {
+  const L = todayLog();
+  const left = L.m.filter(id => id in S.wrong);   // 오늘 틀렸고 아직 오답노트에서 다시 맞히지 않은 단어
+  const study = L.s >= S.goal, quiz = L.q > 0, wrong = left.length === 0;
+  const done = study && quiz && wrong;
+  return { L, study, quiz, wrong, left, done, extra: done && L.r > 0 };
+}
+function updateAch() {
+  const g = goalState(), k = dateStr();
+  if (g.done) S.ach[k] = g.extra ? 2 : 1; else delete S.ach[k];
 }
 
 /* ---------- 단어 ---------- */
 const byGrade = {};
-const APP_VERSION = 'v5';
+const APP_VERSION = 'v6';
 const DATA_UPDATED = '2026-11-25';
+const APP_UPDATED = '2026-11-25';   // 앱을 마지막으로 수정한 날
 const addedCount = WORDS.filter(w => w.lv === 'added').length;
 for (const w of WORDS) (byGrade[w.g] = byGrade[w.g] || []).push(w);
 const unitsOf = g => Math.ceil((byGrade[g] || []).length / UNIT_SIZE);
@@ -103,20 +147,35 @@ function viewGrade() {
 function viewHome() {
   if (!S.grade) return viewGrade();
   setHeader('학년별 영단어', false); setTab('home');
-  const n = todayCount(), goal = S.goal, due = dueIds().length, wr = wrongIds().length;
+  const goal = S.goal, due = dueIds().length, wr = wrongIds().length;
+  updateAch();   // 날짜가 바뀌었거나 저장 전이어도 지금 상태로 달성 여부를 맞춤
+  const G = goalState(), SI = streakIcon();
   const words = byGrade[S.grade];
   const learned = words.filter(w => S.cards[w.id]).length;
   const mastered = words.filter(w => S.cards[w.id] && S.cards[w.id].b >= 3).length;
   // 이어서 할 단원: 아직 학습하지 않은 단어가 있는 첫 단원
   let next = 0;
   for (let u = 0; u < unitsOf(S.grade); u++) { if (unitWords(S.grade, u).some(w => !S.cards[w.id])) { next = u; break; } next = u; }
+  // 퀴즈는 오늘 카드로 공부한 단원을 이어서 풀도록 연결
+  const quizUnit = G.L.lu || `${S.grade}/${next}`;
+  const steps = [G.study, G.quiz].concat(G.L.m.length ? [G.wrong] : []);
+  const doneSteps = steps.filter(Boolean).length;
+  const todo = [];
+  if (!G.study) todo.push(`<a class="todo" href="#/flash/${S.grade}/${next}"><span class="ic">📖</span><span><b>단어카드 학습</b><small>${Math.min(G.L.s, goal)} / ${goal} 단어</small></span><span class="go">›</span></a>`);
+  if (!G.quiz) todo.push(`<a class="todo" href="#/quiz/${quizUnit}"><span class="ic">✏️</span><span><b>퀴즈 풀기</b><small>${+quizUnit.split('/')[1] + 1}단원 퀴즈 1회</small></span><span class="go">›</span></a>`);
+  if (!G.wrong) todo.push(`<a class="todo" href="#/wrong/quiz"><span class="ic">📝</span><span><b>오답노트 다시 풀기</b><small>오늘 틀린 단어 ${G.left.length}개</small></span><span class="go">›</span></a>`);
+  const bonus = G.done && !G.extra && due
+    ? `<a class="todo bonus" href="#/review"><span class="ic">🔁</span><span><b>복습하고 초과달성하기</b><small>오늘 복습할 단어 ${due}개</small></span><span class="go">›</span></a>` : '';
+  const msg = G.extra ? '<div class="goal-msg extra">복습까지 마쳐서 오늘 목표를 초과달성했습니다! 🏅</div>'
+    : G.done ? '<div class="goal-msg ok">오늘 목표를 달성했습니다! 🎉</div>'
+    : '<div class="goal-msg">아직 목표를 달성하지 못했어요~ ㅠㅠ</div>';
   $view.innerHTML = `
-    <div class="card">
-      <h2>오늘의 목표</h2>
-      <div class="row"><div><span class="streak">🔥 ${streak()}</span><span class="muted"> 일 연속</span></div>
-      <div style="text-align:right"><b>${Math.min(n, goal)}</b><span class="muted"> / ${goal} 단어</span></div></div>
-      <div class="bar"><i style="width:${pct(Math.min(n, goal), goal)}%"></i></div>
-      <div class="muted">${n >= goal ? '오늘 목표를 달성했습니다! 🎉' : `목표까지 ${goal - n}단어 남았습니다.`}</div>
+    <div class="card goal-card ${G.extra ? 'extra' : G.done ? 'ok' : ''}">
+      <h2>오늘의 목표${G.extra ? ' <span class="badge gold">초과달성</span>' : ''}</h2>
+      <div class="row"><div><span class="streak ${SI.cls}"><span class="sic">${SI.ic}</span> ${streak()}</span><span class="muted"> 일 연속</span></div>
+      <div style="text-align:right"><b>${doneSteps}</b><span class="muted"> / ${steps.length} 완료</span></div></div>
+      <div class="bar"><i style="width:${pct(doneSteps, steps.length)}%"></i></div>
+      ${msg}${todo.length ? `<div class="todos">${todo.join('')}</div>` : ''}${bonus}
     </div>
     <div class="card">
       <h2>${GRADES[S.grade]} 진도</h2>
@@ -163,7 +222,8 @@ function viewUnit(g, u) {
 }
 
 /* ---------- 화면: 플래시카드 ---------- */
-function viewFlash(ids, title, backTo) {
+function viewFlash(ids, title, backTo, opts) {
+  opts = opts || {};
   setHeader(title, true);
   if (!ids.length) { $view.innerHTML = `<div class="empty">학습할 단어가 없습니다.</div><a class="btn" href="${backTo}" data-replace>돌아가기</a>`; return; }
   const queue = ids.slice(); const retried = new Set(); const total = ids.length; let done = 0; let known = 0;
@@ -175,7 +235,7 @@ function viewFlash(ids, title, backTo) {
       return;
     }
     const w = W(queue[0]);
-    $view.innerHTML = `<div class="progress-txt"><span>${done} / ${total}</span><span>오늘 ${todayCount()} / ${S.goal}</span></div>
+    $view.innerHTML = `<div class="progress-txt"><span>${done} / ${total}</span><span>${opts.kind === 'study' ? `오늘 ${Math.min(todayLog().s, S.goal)} / ${S.goal}` : ''}</span></div>
       <div class="bar"><i style="width:${pct(done, total)}%"></i></div>
       <div class="flash" id="fc"><div class="inner">
         <div class="face front"><div class="word">${esc(w.w)}</div><div class="hint">탭해서 뜻 보기</div></div>
@@ -190,7 +250,12 @@ function viewFlash(ids, title, backTo) {
     $view.querySelectorAll('[data-r]').forEach(b => b.onclick = () => {
       if (busy) return; busy = true;   // 애니메이션 중 연속 탭 방지
       const r = +b.dataset.r, id = queue.shift();
-      if (!retried.has(id)) { rate(id, r); bump(); if (r === 2) known++; }
+      if (!retried.has(id)) {
+        rate(id, r); bump(); if (r === 2) known++;
+        const L = todayLog();
+        if (opts.kind === 'study') { L.s++; L.lu = opts.unit; }
+        else if (opts.kind === 'review') L.r++;
+      }
       if (r === 0 && !retried.has(id)) { retried.add(id); queue.push(id); }   // 모르는 단어는 이번 학습 끝에 한 번 더
       else done++;
       save();
@@ -231,7 +296,8 @@ function viewQuiz(ids, title, backTo, opts) {
   opts = opts || {};
   setHeader(title, true);
   if (!ids.length) { $view.innerHTML = `<div class="empty">${opts.emptyMsg || '풀 문제가 없습니다.'}</div><a class="btn" href="${backTo}" data-replace>돌아가기</a>`; return; }
-  const qs = shuffle(ids).slice(0, QUIZ_LEN); let i = 0, score = 0; const missed = [];
+  const first = opts.first ? opts.first.filter(id => ids.includes(id)) : [];   // 먼저 낼 단어(오늘 틀린 단어)
+  const qs = shuffle(first).concat(shuffle(ids.filter(id => !first.includes(id)))).slice(0, QUIZ_LEN); let i = 0, score = 0; const missed = [];
   function options(w) {
     const pool = (byGrade[w.g] || WORDS).filter(x => x.id !== w.id && x.m !== w.m && x.w !== w.w);
     return shuffle([w].concat(shuffle(pool).slice(0, 3)));
@@ -252,7 +318,8 @@ function viewQuiz(ids, title, backTo, opts) {
   }
   function record(id, ok) {
     if (ok) score++; else missed.push(id);
-    if (opts.onAnswer) opts.onAnswer(id, ok); else quizResult(id, ok);
+    if (opts.onAnswer) opts.onAnswer(id, ok);
+    else { quizResult(id, ok); const L = todayLog(); if (!ok && !L.m.includes(id)) L.m.push(id); }
     bump(); save();
   }
   function askTyped(w, en) {
@@ -309,6 +376,7 @@ function viewQuiz(ids, title, backTo, opts) {
     });
   }
   function finish() {
+    if (!opts.onAnswer) { todayLog().q++; save(); }   // 단원 퀴즈를 끝까지 풀면 퀴즈 목표 달성
     $view.innerHTML = `<div class="card done"><div class="big">${score === qs.length ? '🏆' : score >= qs.length * 0.7 ? '😊' : '💪'}</div>
       <h2>${qs.length}문제 중 ${score}문제 맞혔습니다</h2>
       ${missed.length ? `<ul class="list" style="text-align:left">${missed.map(id => `<li><span class="w">${esc(W(id).w)}</span><span class="m">${esc(W(id).m)}</span></li>`).join('')}</ul>` : '<p class="muted">모두 맞혔습니다!</p>'}
@@ -346,6 +414,7 @@ function viewWrong() {
 }
 function wrongAnswer(id, ok) {
   quizResult(id, ok);
+  if (ok) { const L = todayLog(); L.m = L.m.filter(x => x !== id); }
   if (ok) { S.wrong[id] = (S.wrong[id] || 0) + 1; if (S.wrong[id] >= WRONG_CLEAR) delete S.wrong[id]; }
   else S.wrong[id] = 0;
 }
@@ -363,12 +432,14 @@ function viewSettings() {
     <div class="card"><h2>앱 정보</h2>
       <ul class="list" id="appinfo">
         <li><span>앱 버전</span><b>${APP_VERSION}</b></li>
+        <li><span>앱 업데이트</span><b>${APP_UPDATED}</b></li>
         <li><span>단어 업데이트</span><b>${DATA_UPDATED}</b></li>
         <li><span>전체 단어</span><b>${WORDS.length.toLocaleString()}개</b></li>
         <li><span>교육부 기본 어휘</span><b>${(WORDS.length - addedCount).toLocaleString()}개</b></li>
         <li><span>수능 대비 추가 단어</span><b>${addedCount.toLocaleString()}개</b></li>
       </ul>
-      <p class="muted">최근 변경 (${DATA_UPDATED}): 중2~고3에 수능 대비 단어 ${addedCount}개를 추가했습니다. 추가 단어는 각 학년 단원 목록의 뒤쪽 새 단원에 있습니다.</p>
+      <p class="muted">최근 변경 (${APP_UPDATED}): 오늘의 목표가 단어카드 학습 + 퀴즈 + 오답노트 다시 풀기로 바뀌었고, 복습까지 하면 초과달성으로 표시합니다. 연속 아이콘은 달성하면 🔥, 못 하면 🪵, 2일 이상 못 하면 🧊로 바뀝니다.</p>
+      <p class="muted">단어 변경 (${DATA_UPDATED}): 중2~고3에 수능 대비 단어 ${addedCount}개를 추가했습니다. 추가 단어는 각 학년 단원 목록의 뒤쪽 새 단원에 있습니다.</p>
       <p class="muted">단어 출처: 교육부 고시 2022 개정 영어과 교육과정 [별표 3] 기본 어휘 3,000단어, 그리고 고학년용으로 앱에서 직접 고른 수능 대비 단어 577개(출판사 단어장 내용은 쓰지 않음). 학년 배정과 한글 뜻은 학습 편의를 위해 앱에서 정한 것입니다.<br>
       학습 기록은 이 기기에만 저장됩니다.</p></div>
     <dialog id="dlg"><h2>정말 지울까요?</h2><p class="muted">모든 학습 기록, 복습 일정, 오답노트가 지워집니다.</p>
@@ -389,13 +460,13 @@ function route() {
     case 'grade': return viewGrade();
     case 'units': return viewUnits();
     case 'unit': return viewUnit(+p[1], +p[2]);
-    case 'flash': setTab('units'); return viewFlash(unitWords(+p[1], +p[2]).map(w => w.id), `${GRADES[+p[1]]} ${+p[2] + 1}단원 카드`, `#/unit/${p[1]}/${p[2]}`);
+    case 'flash': setTab('units'); return viewFlash(unitWords(+p[1], +p[2]).map(w => w.id), `${GRADES[+p[1]]} ${+p[2] + 1}단원 카드`, `#/unit/${p[1]}/${p[2]}`, { kind: 'study', unit: `${+p[1]}/${+p[2]}` });
     case 'quiz': setTab('units'); return viewQuiz(unitWords(+p[1], +p[2]).map(w => w.id), `${GRADES[+p[1]]} ${+p[2] + 1}단원 퀴즈`, `#/unit/${p[1]}/${p[2]}`);
     case 'review':
-      if (p[1] === 'go') { setTab('review'); return viewFlash(shuffle(dueIds()), '복습 카드', '#/review'); }
+      if (p[1] === 'go') { setTab('review'); return viewFlash(shuffle(dueIds()), '복습 카드', '#/review', { kind: 'review' }); }
       return viewReview();
     case 'wrong':
-      if (p[1] === 'quiz') { setTab('wrong'); return viewQuiz(wrongIds(), '오답 퀴즈', '#/wrong', { onAnswer: wrongAnswer, emptyMsg: '오답노트가 비어 있습니다.' }); }
+      if (p[1] === 'quiz') { setTab('wrong'); return viewQuiz(wrongIds(), '오답 퀴즈', '#/wrong', { onAnswer: wrongAnswer, emptyMsg: '오답노트가 비어 있습니다.', first: todayLog().m }); }
       if (p[1] === 'flash') { setTab('wrong'); return viewFlash(shuffle(wrongIds()), '오답 카드', '#/wrong'); }
       return viewWrong();
     case 'settings': return viewSettings();

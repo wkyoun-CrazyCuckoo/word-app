@@ -29,6 +29,13 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
     ok('학년 화면에서 < 누르면 홈', (await hash()) === '#/home');
     await p.click('#gradeBtn'); await p.click('[data-g="1"]'); await p.waitForTimeout(200);
     await overflow('홈');
+    cur = '오늘의 목표: 미달성';
+    { const t = await p.textContent('.goal-card');
+      ok('처음엔 미달성 메시지', t.includes('아직 목표를 달성하지 못했어요') && !t.includes('달성했습니다'), t);
+      ok('못한 목표 카드 2개 (학습, 퀴즈)', (await p.$$eval('.goal-card .todo', x => x.length)) === 2);
+      await p.click('.goal-card .todo >> nth=0'); ok('학습 카드 → 단어카드', (await hash()) === '#/flash/1/0');
+      await p.goto(URL + '#/home'); await p.click('.goal-card .todo >> nth=1'); ok('퀴즈 카드 → 퀴즈', (await hash()) === '#/quiz/1/0');
+      await p.goto(URL + '#/home'); await p.waitForTimeout(100); }
 
     cur = '단어장';
     await p.click('[data-tab="units"]'); await p.waitForTimeout(200);
@@ -96,6 +103,10 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
     ok('뜻→영어 3개 틀리고 7개 맞음', (await p.textContent('main')).includes('10문제 중 7문제'));
     s = await st(); ok('오답노트에 3개', Object.keys(s.wrong).length === 3, Object.keys(s.wrong).length);
     await p.click('text=완료'); ok('퀴즈 완료 → 단원 화면', (await hash()) === '#/unit/1/1');
+    await p.goto(URL + '#/home'); await p.waitForTimeout(100);
+    { const t = await p.textContent('.goal-card');
+      ok('학습·퀴즈 했지만 오답 남아 미달성', t.includes('아직 목표를 달성하지 못했어요') && t.includes('오답노트 다시 풀기') && !t.includes('단어카드 학습') && !t.includes('퀴즈 풀기'), t);
+      await p.click('.goal-card .todo'); ok('오답 카드 → 오답 퀴즈', (await hash()) === '#/wrong/quiz'); }
 
     cur = '직접 쓰기 퀴즈';
     await p.goto(URL + '#/quiz/1/2'); await p.waitForTimeout(200);
@@ -138,6 +149,8 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
       }
     }
     s = await st(); ok('3번 연속 맞히면 오답노트에서 빠짐', Object.keys(s.wrong).length === 0, JSON.stringify(s.wrong));
+    await p.goto(URL + '#/home'); await p.waitForTimeout(100);
+    { const t = await p.textContent('.goal-card'); ok('오답까지 다시 풀면 달성', t.includes('오늘 목표를 달성했습니다') && !(await p.$('.goal-card .todo:not(.bonus)')), t); }
     await p.goto(URL + '#/wrong'); ok('빈 오답노트 안내', (await p.textContent('main')).includes('아직 틀린 단어가 없습니다'));
     await p.goto(URL + '#/wrong/quiz'); await p.waitForTimeout(200); ok('빈 오답 퀴즈 안내', (await p.textContent('main')).includes('비어 있습니다'));
     await p.click('text=돌아가기'); ok('돌아가기 → 오답노트', (await hash()) === '#/wrong');
@@ -158,16 +171,23 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
     cur = '목표와 연속 학습';
     await p.click('[data-tab="settings"]'); await p.click('[data-goal="10"]');
     ok('목표 10 저장', (await st()).goal === 10);
-    { const info = await p.textContent('#appinfo'); ok('앱 정보: 버전·업데이트일·단어 수 표시', info.includes('v5') && info.includes('2026-11-25') && info.includes('3,577') && info.includes('577')); }
+    { const info = await p.textContent('#appinfo'); ok('앱 정보: 버전·업데이트일·단어 수 표시', info.includes('v6') && info.includes('앱 업데이트') && info.includes('2026-11-25') && info.includes('3,577') && info.includes('577')); }
     await overflow('설정');
     await p.click('[data-tab="home"]'); await p.waitForTimeout(200);
-    ok('오늘 목표 달성 표시', (await p.textContent('main')).includes('달성'));
+    ok('복습까지 하면 초과달성', (await p.textContent('.goal-card')).includes('초과달성') && (await st()).ach[await p.evaluate(() => dateStr())] === 2);
+    ok('달성하면 불 아이콘', (await p.textContent('.streak')).includes('🔥'));
     ok('연속 1일', (await p.textContent('.streak')).includes('1'));
-    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); const d = new Date(); for (let k = 1; k <= 3; k++) { d.setDate(d.getDate() - 1); s.days[d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0')] = 5; } localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
+    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); const d = new Date(); for (let k = 1; k <= 3; k++) { d.setDate(d.getDate() - 1); { const k = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); s.ach[k] = 1; s.days[k] = 5; } } localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
     await p.reload(); ok('연속 4일 (어제까지 3일 + 오늘)', (await p.textContent('.streak')).includes('4'));
     // 오늘 안 했을 때: 오늘 기록 제거 → 3일 유지
-    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); const d = new Date(); delete s.days[d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0')]; localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
-    await p.reload(); ok('오늘 아직 안 해도 어제까지 연속 3일 유지', (await p.textContent('.streak')).includes('3'));
+    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); const d = new Date(); s.log = {}; delete s.ach[d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0')]; localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
+    await p.reload(); ok('오늘 아직 달성 전이어도 어제까지 연속 3일 유지', (await p.textContent('.streak')).includes('3'));
+    ok('오늘 미달성이면 장작 아이콘', (await p.textContent('.streak')).includes('🪵'));
+    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); const d = new Date(); d.setDate(d.getDate() - 1); delete s.ach[dateStr(d)]; localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
+    await p.reload(); ok('2일 이상 미달성이면 얼음 아이콘', (await p.textContent('.streak')).includes('🧊'));
+    // 예전 버전 기록(공부한 날)은 달성한 날로 옮겨 연속 기록 유지
+    await p.evaluate(() => { const s = JSON.parse(localStorage.getItem('wordapp.v1')); s.ach = {}; delete s.achMigrated; localStorage.setItem('wordapp.v1', JSON.stringify(s)); });
+    await p.reload(); ok('예전 기록 옮기기: 어제까지 공부한 날 연속 유지', (await p.textContent('.streak')).includes('3'));
 
     cur = '기록 지우기';
     await p.click('[data-tab="settings"]'); await p.click('#reset'); await p.click('#no');
