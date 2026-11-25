@@ -158,6 +158,7 @@ const ok = (name, cond, info='') => results.push({ t: cur, name, pass: !!cond, i
     cur = '목표와 연속 학습';
     await p.click('[data-tab="settings"]'); await p.click('[data-goal="10"]');
     ok('목표 10 저장', (await st()).goal === 10);
+    { const info = await p.textContent('#appinfo'); ok('앱 정보: 버전·업데이트일·단어 수 표시', info.includes('v5') && info.includes('2026-11-25') && info.includes('3,577') && info.includes('577')); }
     await overflow('설정');
     await p.click('[data-tab="home"]'); await p.waitForTimeout(200);
     ok('오늘 목표 달성 표시', (await p.textContent('main')).includes('달성'));
