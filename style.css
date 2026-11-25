@@ -118,3 +118,24 @@ main{overflow-x:hidden}
   .flash,.flash .inner{transition:none}
   .flash.enter{animation:none}
 }
+/* 오늘의 목표 */
+.goal-msg{font-size:15px;color:var(--muted);margin-top:4px}
+.goal-msg.ok{color:var(--good);font-weight:700}
+.goal-msg.extra{color:var(--warn);font-weight:700}
+.goal-card.ok .bar i{background:var(--good)}
+.goal-card.extra{border-color:var(--warn)}
+.goal-card.extra .bar i{background:linear-gradient(90deg,var(--warn),#ffcf5c)}
+.badge.gold{background:var(--warn-soft);color:var(--warn);font-weight:700;vertical-align:middle}
+.todos{display:flex;flex-direction:column;gap:8px;margin-top:10px}
+.todo{display:flex;align-items:center;gap:10px;padding:10px 12px;border:1px solid var(--line);border-radius:12px;
+  background:var(--bg);color:inherit;text-decoration:none}
+.todo .ic{font-size:20px}
+.todo span:nth-child(2){flex:1;display:flex;flex-direction:column}
+.todo b{font-size:15px}
+.todo small{color:var(--muted);font-size:13px}
+.todo .go{color:var(--primary);font-size:22px;line-height:1}
+.todo.bonus{margin-top:10px;border-color:var(--warn);background:var(--warn-soft)}
+.todo.bonus .go{color:var(--warn)}
+.streak .sic{display:inline-block}
+.streak.log .sic{filter:grayscale(.35)}
+.streak.ice{color:#6fb7e8}
